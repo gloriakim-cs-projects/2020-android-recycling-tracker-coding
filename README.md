@@ -11,10 +11,10 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 ## Design
 
 ***Light Mode***
-![image](https://user-images.githubusercontent.com/68700599/89609279-fb102c80-d83c-11ea-967a-bc4c89ba5dea.png)
+![image](https://user-images.githubusercontent.com/68700599/89610031-23008f80-d83f-11ea-99eb-057306cb6864.png)
 
 ***Dark Mode***
-![image](https://user-images.githubusercontent.com/68700599/89609424-6a861c00-d83d-11ea-81a4-feb14eb69062.png)
+![image](https://user-images.githubusercontent.com/68700599/89610011-12e8b000-d83f-11ea-83b8-7ca8bfb4e752.png)
 
 ## Simple Demo
 

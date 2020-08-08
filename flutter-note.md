@@ -25,6 +25,7 @@
 - `padding` = inside of container
 - `margin` = outside of container
 - create a container with infinite length to shift containers to the right
+- list of variables(?):'ctrl' + 'q'
 
 ## Learning Tips
 

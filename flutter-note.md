@@ -19,7 +19,8 @@
 - 'alt'+'Enter'
 - hot reload: stless + 'ctrl + s'
 - hot reset: test from start
-- container with children: trying to be as big as possible + with children: shrinks to the size of children (such as text)
+- `container` with children: trying to be as big as possible + with children: shrinks to the size of children (such as text)
+- `SafeArea`: allows to put everything inside of bumpy designs of phone
 
 ## Learning Tips
 

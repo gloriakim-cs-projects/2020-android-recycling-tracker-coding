@@ -19,7 +19,7 @@
 - 'alt'+'Enter'
 - hot reload: stless + 'ctrl + s'
 - hot reset: test from start
-- `container` with children: trying to be as big as possible + with children: shrinks to the size of children (such as text)
+- `container` with child (ONLY ONE IS ALLOWED): trying to be as big as possible + with child: shrinks to the size of children (such as text)
 - `SafeArea`: allows to put everything inside of bumpy designs of phone
 - `padding` = inside of container
 - `margin` = outside of container

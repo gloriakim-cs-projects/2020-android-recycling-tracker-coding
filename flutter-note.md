@@ -9,6 +9,6 @@
 - [Tree Strcture Diagram](https://app.diagrams.net/)
 - [App Icon](https://appicon.co/)
 - [Free Illustrations](http://icons8.com/ouch)
-- [Another Free Illustrations](vecteezy.com)
-- [Create Your Own](canva.com)
+- [Another Free Illustrations](https://www.vecteezy.com/)
+- [Create Your Own](https://www.canva.com/)
 

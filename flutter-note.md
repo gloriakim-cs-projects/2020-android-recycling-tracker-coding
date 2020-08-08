@@ -23,6 +23,7 @@
 - `SafeArea`: allows to put everything inside of bumpy designs of phone
 - `padding` = inside of container
 - `margin` = outside of container
+- create a container with infinite length to shift containers to the right
 
 ## Learning Tips
 

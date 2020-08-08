@@ -12,3 +12,9 @@
 - [Another Free Illustrations](https://www.vecteezy.com/)
 - [Create Your Own](https://www.canva.com/)
 
+## Tips
+
+- Use Cornell notes
+- Use Calendar strike
+- Avoid distractions
+

@@ -19,6 +19,7 @@
 - 'alt'+'Enter'
 - hot reload: stless + 'ctrl + s'
 - hot reset: test from start
+- container with children: trying to be as big as possible
 
 ## Learning Tips
 

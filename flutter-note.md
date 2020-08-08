@@ -16,6 +16,7 @@
 
 - Always use a single quote
 - 'alt'+'Enter'
+- stless + 'ctrl + s' for hot reload
 
 ## Learning Tips
 

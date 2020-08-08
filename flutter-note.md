@@ -19,7 +19,7 @@
 - 'alt'+'Enter'
 - hot reload: stless + 'ctrl + s'
 - hot reset: test from start
-- container with children: trying to be as big as possible
+- container with children: trying to be as big as possible + with children: shrinks to the size of children (such as text)
 
 ## Learning Tips
 

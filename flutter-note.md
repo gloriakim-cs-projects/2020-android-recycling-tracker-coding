@@ -12,7 +12,12 @@
 - [Another Free Illustrations](https://www.vecteezy.com/)
 - [Create Your Own](https://www.canva.com/)
 
-## Tips
+## Coding Tips
+
+- Always use a single quote
+- 'alt'+'Enter'
+
+## Learning Tips
 
 - Use Cornell notes
 - Use Calendar strike

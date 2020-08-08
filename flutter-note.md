@@ -14,6 +14,7 @@
 - [Flutter Documentation](https://api.flutter.dev/index.html)
 - [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 - [Free Fonts (for Commercial Use As Well)](https://fonts.google.com/)
+- [Color Palette & Icons](https://www.materialpalette.com/)
 
 ## Coding Tips
 
@@ -27,6 +28,8 @@
 - `margin` = outside of container
 - create a container with infinite length to shift containers to the right
 - list of variables(?):'ctrl' + 'q'
+- ![image](https://user-images.githubusercontent.com/68700599/89716577-bf2bb300-d973-11ea-849d-8b11a5b5387e.png)
+
 
 ## Learning Tips
 

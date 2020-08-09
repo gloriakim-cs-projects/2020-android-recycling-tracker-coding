@@ -36,6 +36,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 
 ***Coding***
 - [Nativate Screens](https://stackoverflow.com/questions/44004451/navigator-operation-requested-with-a-context-that-does-not-include-a-navigator)
+- [Button with Round Edge](https://stackoverflow.com/questions/49991444/create-a-rounded-button-button-with-border-radius-in-flutter)
 
 ## Author
 

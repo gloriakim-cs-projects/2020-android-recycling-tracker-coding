@@ -35,7 +35,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Lightbulb](https://www.flaticon.com/free-icon/electric-light-bulb_15595?term=lightbulb&page=1&position=72)
 
 ***Coding***
-- 
+- [Nativate Screens](https://stackoverflow.com/questions/44004451/navigator-operation-requested-with-a-context-that-does-not-include-a-navigator)
 
 ## Author
 

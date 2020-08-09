@@ -37,4 +37,5 @@
 - Use Cornell notes
 - Use Calendar strike
 - Avoid distractions
+- Procrastination (미루기) - 공부하기 전에 세팅하고 커피도 마시고 이러는 것보단 (feeding procrastination), 공부를 한 시간 한 후에 커피도 마시고 연필도 깎는 것 (rewarding accomplishment)
 

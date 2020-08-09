@@ -7,7 +7,7 @@
 ## Useful Resources
 
 - [Tree Strcture Diagram](https://app.diagrams.net/)
-- [App Icon](https://appicon.co/)
+- [App Icon Generator](https://appicon.co/)
 - [Free Illustrations](http://icons8.com/ouch)
 - [Another Free Illustrations](https://www.vecteezy.com/)
 - [Create Your Own](https://www.canva.com/)
@@ -15,6 +15,7 @@
 - [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 - [Free Fonts (for Commercial Use As Well)](https://fonts.google.com/)
 - [Color Palette & Icons](https://www.materialpalette.com/)
+- [Flutter Package](https://pub.dev/flutter/packages)
 
 ## Coding Tips
 

@@ -29,6 +29,7 @@
 - create a container with infinite length to shift containers to the right
 - list of variables(?):'ctrl' + 'q'
 - ![image](https://user-images.githubusercontent.com/68700599/89716577-bf2bb300-d973-11ea-849d-8b11a5b5387e.png)
+- `stateless` = do not change VS `stateful` = change
 
 
 ## Learning Tips

@@ -40,3 +40,4 @@
 - Avoid distractions
 - Procrastination (미루기) - 공부하기 전에 세팅하고 커피도 마시고 이러는 것보단 (feeding procrastination), 공부를 한 시간 한 후에 커피도 마시고 연필도 깎는 것 (rewarding accomplishment)
 - Use another habit to build a new habit - 이미 있는 habit 바로 다음에 해서 (아침에 이 닦은 후 바로 20분동안 무조건 앉아있기 -> 명상하기로) 쉽게 habit을 build 할 수 있는 것
+- 딱! 20분만 하자고 하고, 그 이후엔 inertia가 해결해줌. (물론 20분만 해도 20분이나 했으니까 OK!)

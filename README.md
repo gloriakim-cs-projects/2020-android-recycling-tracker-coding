@@ -22,7 +22,11 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 
 ## Tree Diagram
 
+***Home***
+
 ![home](https://user-images.githubusercontent.com/68700599/89750811-1ffddd00-da93-11ea-91c4-53b67c07dbfd.png)
+
+***Stats***
 
 ![stats](https://user-images.githubusercontent.com/68700599/89752550-71f63100-da9a-11ea-8053-4572b34e4276.png)
 

@@ -46,6 +46,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Persistent AppBar Drawer throughout the App](https://stackoverflow.com/questions/51659805/persisting-appbar-drawer-across-all-pages-flutter)
 - [Persistent AppBar throughout the App - absin](https://stackoverflow.com/questions/53411890/how-can-i-have-my-appbar-in-a-separate-file-in-flutter-while-still-having-the-wi)
 - [Google Map](https://www.youtube.com/watch?v=Dme03oxZRU0)
+- [Theme](https://stackoverflow.com/questions/59473941/how-to-use-font-settings-using-theme-widget)
 
 ## Author
 

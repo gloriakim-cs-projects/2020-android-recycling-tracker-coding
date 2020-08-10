@@ -38,7 +38,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 ### Photo
 - [Kalen Emsley](https://unsplash.com/photos/Bkci_8qcdvQ)
 
-***Coding***
+### Coding
 - [Nativate Screens](https://stackoverflow.com/questions/44004451/navigator-operation-requested-with-a-context-that-does-not-include-a-navigator)
 - [Button with Round Edge](https://stackoverflow.com/questions/49991444/create-a-rounded-button-button-with-border-radius-in-flutter)
 - [App Bar Showing Background - nickolight](https://stackoverflow.com/questions/53080186/make-appbar-transparent-and-show-background-image-which-is-set-to-whole-screen)

@@ -40,6 +40,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [App Bar Showing Background - nickolight](https://stackoverflow.com/questions/53080186/make-appbar-transparent-and-show-background-image-which-is-set-to-whole-screen)
 - [Drawer](https://flutter.dev/docs/cookbook/design/drawer)
 - [Persistent AppBar Drawer throughout the App](https://stackoverflow.com/questions/51659805/persisting-appbar-drawer-across-all-pages-flutter)
+- [Persistent AppBar throughout the App - absin](https://stackoverflow.com/questions/53411890/how-can-i-have-my-appbar-in-a-separate-file-in-flutter-while-still-having-the-wi)
 
 ## Author
 

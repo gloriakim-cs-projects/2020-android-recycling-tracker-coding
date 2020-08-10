@@ -20,6 +20,12 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 
 ## Detailed Demo
 
+## Tree Diagram
+
+![home](https://user-images.githubusercontent.com/68700599/89750811-1ffddd00-da93-11ea-91c4-53b67c07dbfd.png)
+
+![stats](https://user-images.githubusercontent.com/68700599/89752550-71f63100-da9a-11ea-8053-4572b34e4276.png)
+
 ## Contributing
 
 ***Design***
@@ -41,6 +47,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Drawer](https://flutter.dev/docs/cookbook/design/drawer)
 - [Persistent AppBar Drawer throughout the App](https://stackoverflow.com/questions/51659805/persisting-appbar-drawer-across-all-pages-flutter)
 - [Persistent AppBar throughout the App - absin](https://stackoverflow.com/questions/53411890/how-can-i-have-my-appbar-in-a-separate-file-in-flutter-while-still-having-the-wi)
+- [Google Map](https://www.youtube.com/watch?v=Dme03oxZRU0)
 
 ## Author
 

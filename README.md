@@ -10,10 +10,10 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 
 ## Design
 
-***Light Mode***
+### Light Mode
 ![image](https://user-images.githubusercontent.com/68700599/89610031-23008f80-d83f-11ea-99eb-057306cb6864.png)
 
-***Dark Mode***
+### Dark Mode
 ![image](https://user-images.githubusercontent.com/68700599/89610011-12e8b000-d83f-11ea-83b8-7ca8bfb4e752.png)
 
 ## Simple Demo
@@ -22,27 +22,21 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 
 ## Tree Diagram
 
-***Home***
+### Home
 
 ![home](https://user-images.githubusercontent.com/68700599/89750811-1ffddd00-da93-11ea-91c4-53b67c07dbfd.png)
 
-***Stats***
+### Stats
 
 ![stats](https://user-images.githubusercontent.com/68700599/89752550-71f63100-da9a-11ea-8053-4572b34e4276.png)
 
 ## Contributing
 
-***Design***
+### Design
 - [Inspiring App Design](https://www.behance.net/gallery/77578081/greendeeds-Recycling-App?tracking_source=search_projects_recommended%7Crecycling)
 
-***Photo***
+### Photo
 - [Kalen Emsley](https://unsplash.com/photos/Bkci_8qcdvQ)
-
-***Icons***
-- [Stats](https://www.flaticon.com/free-icon/bar-chart_900809?term=stat&page=2&position=19)
-- [Goal](https://www.flaticon.com/free-icon/goal_1694313?term=goal&page=2&position=57)
-- [Fact](https://www.flaticon.com/free-icon/agenda_865152?term=book&page=1&position=95)
-- [Lightbulb](https://www.flaticon.com/free-icon/electric-light-bulb_15595?term=lightbulb&page=1&position=72)
 
 ***Coding***
 - [Nativate Screens](https://stackoverflow.com/questions/44004451/navigator-operation-requested-with-a-context-that-does-not-include-a-navigator)

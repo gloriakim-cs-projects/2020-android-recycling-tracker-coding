@@ -49,6 +49,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Theme](https://stackoverflow.com/questions/59473941/how-to-use-font-settings-using-theme-widget)
 - [TextView Theme Applied](https://stackoverflow.com/questions/51382553/flutter-theme-not-applied-to-text-widget)
 - [ImageButton](https://stackoverflow.com/questions/55216108/button-with-image-background-flutter)
+- [PageView (Facts Details)](https://medium.com/flutter-community/flutter-pageview-widget-e0f6c8092636)
 
 ## Author
 

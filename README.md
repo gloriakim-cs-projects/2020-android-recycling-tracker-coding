@@ -47,6 +47,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Persistent AppBar throughout the App - absin](https://stackoverflow.com/questions/53411890/how-can-i-have-my-appbar-in-a-separate-file-in-flutter-while-still-having-the-wi)
 - [Google Map](https://www.youtube.com/watch?v=Dme03oxZRU0)
 - [Theme](https://stackoverflow.com/questions/59473941/how-to-use-font-settings-using-theme-widget)
+- [TextView Theme Applied](https://stackoverflow.com/questions/51382553/flutter-theme-not-applied-to-text-widget)
 
 ## Author
 

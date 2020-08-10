@@ -51,6 +51,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [ImageButton](https://stackoverflow.com/questions/55216108/button-with-image-background-flutter)
 - [PageView (Facts Details)](https://medium.com/flutter-community/flutter-pageview-widget-e0f6c8092636)
 - [Dot Indicator](https://pub.dev/packages/dots_indicator)
+- [Align Bottom - Abhijith Brumal](https://stackoverflow.com/questions/45746636/flutter-trying-to-bottom-center-an-item-in-a-column-but-it-keeps-left-aligning)
 
 ## Author
 

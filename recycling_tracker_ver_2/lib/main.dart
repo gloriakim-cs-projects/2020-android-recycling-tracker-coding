@@ -612,8 +612,6 @@ class _GoalsPageState extends State<GoalsPage> {
 }
 
 /* FACTS */
-//TODO:add different pages for tabs
-//TODO:change drawer color
 class FactsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -622,36 +620,42 @@ class FactsPage extends StatelessWidget {
       child: DefaultTabController(
         length: 2,
         child: Scaffold(
-          appBar: TabAppBar(context, 'FACTS', 'LEARN', 'NEWS'),
+          appBar: MyTabAppBar(context, 'FACTS', 'LEARN', 'NEWS'),
           //show background behind the app bar
           extendBodyBehindAppBar: true,
           body: SafeArea(
-            child: ListView(
-              padding: const EdgeInsets.symmetric(vertical: 8.0),
-              children: <Widget>[
-                MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                    'light_background'),
-                SizedBox(height: 8.0),
-                MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                    'light_background'),
-                SizedBox(height: 8.0),
-                MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                    'light_background'),
-                SizedBox(height: 8.0),
-                MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                    'light_background'),
-                SizedBox(height: 8.0),
-                MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                    'light_background'),
-                SizedBox(height: 8.0),
-                MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                    'light_background'),
-                SizedBox(height: 8.0),
-                MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                    'light_background'),
-                SizedBox(height: 8.0),
-                MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                    'light_background'),
+            child: TabBarView(
+              children: [
+                ListView(
+                  padding: const EdgeInsets.symmetric(vertical: 8.0),
+                  children: <Widget>[
+                    MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
+                        'light_background'),
+                    SizedBox(height: 8.0),
+                    MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
+                        'light_background'),
+                    SizedBox(height: 8.0),
+                    MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
+                        'light_background'),
+                    SizedBox(height: 8.0),
+                    MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
+                        'light_background'),
+                    SizedBox(height: 8.0),
+                    MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
+                        'light_background'),
+                    SizedBox(height: 8.0),
+                    MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
+                        'light_background'),
+                    SizedBox(height: 8.0),
+                    MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
+                        'light_background'),
+                    SizedBox(height: 8.0),
+                    MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
+                        'light_background'),
+                  ],
+                ),
+                //TODO: Add news
+                Icon(Icons.directions_transit)
               ],
             ),
           ),
@@ -663,9 +667,10 @@ class FactsPage extends StatelessWidget {
 }
 
 /* Tab Bar */
-AppBar TabAppBar(
+AppBar MyTabAppBar(
     BuildContext context, String bartitle, String tab1, String tab2) {
   return AppBar(
+    iconTheme: new IconThemeData(color: Colors.black54),
     bottom: TabBar(
       tabs: [
         Tab(

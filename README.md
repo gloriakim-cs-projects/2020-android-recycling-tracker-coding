@@ -32,7 +32,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 
 ### Search
 
-![search](https://user-images.githubusercontent.com/68700599/89856171-20af7580-db5e-11ea-9495-b197d81dd80d.png)
+![Untitled Diagram](https://user-images.githubusercontent.com/68700599/89857212-180c6e80-db61-11ea-8dfc-cb91d31de46e.png)
 
 ## Contributing
 

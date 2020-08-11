@@ -30,6 +30,10 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 
 ![stats](https://user-images.githubusercontent.com/68700599/89752550-71f63100-da9a-11ea-8053-4572b34e4276.png)
 
+### Search
+
+![search](https://user-images.githubusercontent.com/68700599/89856171-20af7580-db5e-11ea-9495-b197d81dd80d.png)
+
 ## Contributing
 
 ### Design

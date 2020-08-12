@@ -63,10 +63,9 @@ class MyApp extends StatelessWidget {
         '/LOCATOR': (BuildContext context) => new LocatorPage(),
         '/STATS': (BuildContext context) => new StatsPage(),
         '/SEARCH': (BuildContext context) => new SearchPage(),
-        '/GOALS': (BuildContext context) => new GoalsPage(),
-        '/EVENTS': (BuildContext context) => new EventsPage(),
-        '/EVENTS': (BuildContext context) => new EventsPage(),
         //TODO: Remove it if not used
+//        '/GOALS': (BuildContext context) => new GoalsPage(),
+//        '/EVENTS': (BuildContext context) => new EventsPage(),
 //        '/goalsDetails': (BuildContext context) => new PageViewDemo(),
       },
     );
@@ -505,16 +504,17 @@ class MyHomePage extends StatelessWidget {
             SizedBox(
               height: 15.0,
             ),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: <Widget>[
-                MyMaterialButton(context, 'GOALS', 57683),
-                SizedBox(
-                  width: 15.0,
-                ),
-                MyMaterialButton(context, 'EVENTS', 59512),
-              ],
-            ),
+//TODO: Remove it if not used
+//            Row(
+//              mainAxisAlignment: MainAxisAlignment.center,
+//              children: <Widget>[
+//                MyMaterialButton(context, 'GOALS', 57683),
+//                SizedBox(
+//                  width: 15.0,
+//                ),
+//                MyMaterialButton(context, 'EVENTS', 59512),
+//              ],
+//            ),
           ],
         ),
       ),

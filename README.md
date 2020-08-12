@@ -63,6 +63,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Align Bottom - Abhijith Brumal](https://stackoverflow.com/questions/45746636/flutter-trying-to-bottom-center-an-item-in-a-column-but-it-keeps-left-aligning)
 - [ListView / Passing Variables to Another Screen (like SharedPreferences)](https://flutter.dev/docs/cookbook/navigation/passing-data)
 - [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
+- [Icon Code (Passing Icons)](https://stackoverflow.com/questions/57869179/dynamic-icons-in-flutter)
 
 ## Author
 

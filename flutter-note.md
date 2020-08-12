@@ -16,6 +16,7 @@
 - [Free Fonts (for Commercial Use As Well)](https://fonts.google.com/)
 - [Color Palette & Icons](https://www.materialpalette.com/)
 - [Flutter Package](https://pub.dev/flutter/packages)
+- [Material Design (List of Icons and Palette)](https://www.materialpalette.com/icons)
 
 ## Coding Tips
 

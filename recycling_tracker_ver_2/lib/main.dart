@@ -11,27 +11,40 @@ import 'package:camera/camera.dart';
 //probably capture image and save the image and call the image to sort out
 import 'package:dots_indicator/dots_indicator.dart'; //bottom dot indicator
 
-List<String> recyclable = [
-  "Plastic",
-  "Papers",
-  "Glass",
-  "Cardboard",
-  "Aluminum",
-  "Steel",
-  "Juice Boxes",
-  "Detergent",
-];
+//TODO: before publish, make sure all functiosn are used. How? search for the function/classes's name. if there is only one found (the function itsef) ,then remove it.
 
-List<String> recyclable_description = [
-  'THE LEAST RECYCLED',
-  'THE MOST USED',
-  'THE LEAST DONATED',
-  'THE UNFORGOTTEN PART',
-  'THE 123',
-  '456',
-  '789',
-  '101',
-  '231',
+class Recyclable {
+  final String title;
+  final String description;
+  final String instruction;
+  final String why;
+  final String
+      recycle; //put either "recyclable" or "not recyclable" (This item "can be recycled")
+  final String
+      donate; //put either "can be donated" or "cannot be donated" (This item "can be donated")
+
+  Recyclable(this.title, this.description, this.instruction, this.why,
+      this.recycle, this.donate);
+}
+
+//TODO: complete the array
+List<Recyclable> recyclable = [
+  Recyclable(
+    'PLASTICS',
+    'abc1',
+    'Candy wrappers are not recyclable because (1) they may have possible food contamination and (2) they are made of a combination of plastic and aluminum.',
+    'Candy wrappers are not recyclable because (1) they may have possible food contamination and (2) they are made of a combination of plastic and aluminum.',
+    'recyclable',
+    'cannot be donated',
+  ),
+  Recyclable('PAPERS', 'abc2', 'instruction123', 'why123', 'recyclable',
+      'cannot be donated'),
+  Recyclable('CLOTHING', 'abc3', 'instruction123', 'why123', 'recyclable',
+      'can be donated'),
+  Recyclable('CARDBOARDS', 'abc4', 'instruction123', 'why123',
+      'can be recycled', 'cannot be donated'),
+  Recyclable('COMPUTERS', 'abc4', 'instruction123', 'why123', 'recyclable',
+      'can be donated'),
 ];
 
 void main() {
@@ -45,18 +58,32 @@ class MyApp extends StatelessWidget {
       title: 'Recycling Tracker',
       home: new MyHomePage(),
       routes: <String, WidgetBuilder>{
-        '/home': (BuildContext context) => new MyHomePage(),
-        '/camera': (BuildContext context) => new CameraPage(),
-        '/locator': (BuildContext context) => new LocatorPage(),
-        '/stats': (BuildContext context) => new StatsPage(),
-        '/search': (BuildContext context) => new SearchPage(),
-//        '/goals': (BuildContext context) => new GoalsPage(),
-        '/facts': (BuildContext context) => new FactsPage(),
-        '/factsDetails': (BuildContext context) => new PageViewDemo(),
-        '/goals': (BuildContext context) => new Example(),
+        '/HOME': (BuildContext context) => new MyHomePage(),
+        '/CAMERA': (BuildContext context) => new CameraPage(),
+        '/LOCATOR': (BuildContext context) => new LocatorPage(),
+        '/STATS': (BuildContext context) => new StatsPage(),
+        '/SEARCH': (BuildContext context) => new SearchPage(),
+        '/GOALS': (BuildContext context) => new GoalsPage(),
+        '/EVENTS': (BuildContext context) => new EventsPage(),
+        '/EVENTS': (BuildContext context) => new EventsPage(),
+        //TODO: Remove it if not used
+//        '/goalsDetails': (BuildContext context) => new PageViewDemo(),
       },
     );
   }
+}
+
+/* 진짜 많이 쓰였음 Image Background */
+BoxDecoration MyBoxDecoration(String imagename) {
+  return BoxDecoration(
+    color: Colors.black,
+    image: DecorationImage(
+      image: AssetImage('images/$imagename.jpg'),
+      colorFilter:
+          ColorFilter.mode(Colors.black.withOpacity(0.6), BlendMode.dstATop),
+      fit: BoxFit.cover,
+    ),
+  );
 }
 
 /* App Bar  */
@@ -82,7 +109,7 @@ class MyAppBar {
           ),
           tooltip: 'Home Page',
           //show side pages
-          onPressed: () => Navigator.of(context).pushNamed('/home'),
+          onPressed: () => Navigator.of(context).pushNamed('/HOME'),
         ),
       ],
       backgroundColor: Colors.transparent,
@@ -202,7 +229,7 @@ class _MyDrawerState extends State<MyDrawer> {
   }
 }
 
-/* App Bar (Tab) */
+/* App Bar (Tab) (used for EVENTS) */
 AppBar MyTabAppBar(
     BuildContext context, String bartitle, String tab1, String tab2) {
   return AppBar(
@@ -236,13 +263,14 @@ AppBar MyTabAppBar(
         ),
         tooltip: 'Home Page',
         //show side pages
-        onPressed: () => Navigator.of(context).pushNamed('/home'),
+        onPressed: () => Navigator.of(context).pushNamed('/HOME'),
       ),
     ],
   );
 }
 
-/* App Bar (FACTS Details) */
+//TODO: Remove this if not used (PageViewDemo)
+/* App Bar */
 AppBar MyAppBarDetails(BuildContext context, String bartitle) {
   return AppBar(
     title: SafeArea(
@@ -263,7 +291,7 @@ AppBar MyAppBarDetails(BuildContext context, String bartitle) {
         ),
         tooltip: 'Close',
         //show side pages
-        onPressed: () => Navigator.of(context).pushNamed('/facts'),
+        onPressed: () => Navigator.of(context).pushNamed('/EVENTS'),
       ),
     ],
     backgroundColor: Colors.transparent,
@@ -271,7 +299,8 @@ AppBar MyAppBarDetails(BuildContext context, String bartitle) {
   );
 }
 
-/* Each PageViewer(FACTS Details)'s Content */
+//TODO: This is not used at this moment. delete if not used later.
+/* Each PageViewer(GOALS Details)'s Content */
 Column PageWidgetContent(BuildContext context, String image, String title,
     String description, double pos, String buttonText) {
   return Column(
@@ -286,7 +315,7 @@ Column PageWidgetContent(BuildContext context, String image, String title,
           decoration: BoxDecoration(
             color: Colors.black,
             image: DecorationImage(
-                image: AssetImage('images/$image.png'), fit: BoxFit.cover),
+                image: AssetImage('images/$image.jpg'), fit: BoxFit.cover),
           ),
         ),
       ),
@@ -353,68 +382,84 @@ ThemeData LightThemeGrey() {
     indicatorColor: Colors.black54,
     scaffoldBackgroundColor: Colors.white,
     textTheme: TextTheme(
+      //TODO: Remove this part if not used; for PageViewDemo
       headline1: TextStyle(
         fontFamily: 'Rajdhani',
         fontSize: 25.0,
         color: Colors.black,
         fontWeight: FontWeight.bold,
       ),
+      //GOALS, EVENTS (ListView Title)
+      headline2: TextStyle(
+        fontFamily: 'Rajdhani',
+        fontSize: 40.0,
+        color: Colors.white,
+        fontWeight: FontWeight.bold,
+      ),
+      //HOME (Icon texts)
+      headline3: TextStyle(
+          fontSize: 20.0,
+          fontFamily: 'Rajdhani',
+          fontWeight: FontWeight.w700,
+          color: Colors.white),
+      //STAT (Big Font)
+      headline4: TextStyle(
+          fontWeight: FontWeight.bold,
+          fontSize: 60.0,
+          fontFamily: 'Rajdhani',
+          color: Colors.white),
+      //STAT (Small Font)
+      subtitle1: TextStyle(
+          fontWeight: FontWeight.bold,
+          fontSize: 20.0,
+          fontFamily: 'Rajdhani',
+          color: Colors.white60),
+      //SEARCH (BOLD Detailed Description)
+      subtitle2: TextStyle(
+        fontFamily: 'Rajdhani',
+        fontSize: 20.0,
+        color: Colors.black,
+        fontWeight: FontWeight.bold,
+      ),
+      //SEARCH (Detailed Description)
       bodyText1: TextStyle(
         fontFamily: 'Rajdhani',
-        fontSize: 22.0,
+        fontSize: 20.0,
         color: Colors.black,
+      ),
+      //GOALS, EVENTS (ListView Description)
+      bodyText2: TextStyle(
+        fontFamily: 'Rajdhani',
+        fontSize: 20.0,
+        color: Colors.white,
       ),
     ),
   );
 }
 
-/* Image Button Container (FACTS) */
-Container MyFacts(
-    BuildContext context, String topic, String description, String image) {
-  return Container(
-    width: 120,
-    height: 120,
-    decoration: BoxDecoration(
-      color: Colors.black,
-      image: DecorationImage(
-          image: AssetImage("images/$image.png"), fit: BoxFit.cover),
-      // button text
-    ),
-    child: MaterialButton(
-      //TODO: need to change the name to transit based on the content (probably use array)
-      onPressed: () => Navigator.of(context).pushNamed('/factsDetails'),
-      color: Colors.transparent,
-      child: Row(
-        children: <Widget>[
-          Column(
-            mainAxisAlignment: MainAxisAlignment.center, //위아래로 센터 맞춤
-            crossAxisAlignment: CrossAxisAlignment.start, //왼쪽으로 붙음
-            children: <Widget>[
-              Text(
-                topic,
-                style: TextStyle(color: Colors.white, fontSize: 40.0),
-              ),
-              Text(
-                description,
-                style: TextStyle(color: Colors.white, fontSize: 20.0),
-              ),
-            ],
-          ),
-          Expanded(
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center, //위아래로 센터 맞춤
-              crossAxisAlignment: CrossAxisAlignment.end, //오른쪽으로 붙음
-              children: [
-                Icon(
-                  Icons.keyboard_arrow_right,
-                  size: 60.0,
-                  color: Colors.white,
-                ),
-              ],
-            ),
-          ),
-        ],
-      ),
+/* HOME - Material Button */
+MaterialButton MyMaterialButton(
+    BuildContext context, String iconName, int iconCode) {
+  return MaterialButton(
+    height: 130.0,
+    minWidth: 130.0,
+    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20.0)),
+    onPressed: () => Navigator.of(context).pushNamed('/$iconName'),
+    color: Colors.black.withOpacity(0.3),
+    padding: EdgeInsets.all(20.0),
+    child: Column(
+      // Replace with a Row for horizontal icon + text
+      children: <Widget>[
+        Icon(
+          IconData(iconCode, fontFamily: 'MaterialIcons'),
+          size: 60.0,
+          color: Colors.white,
+        ),
+        Text(
+          '$iconName',
+          style: LightThemeGrey().textTheme.headline3,
+        ),
+      ],
     ),
   );
 }
@@ -429,12 +474,7 @@ class MyHomePage extends StatelessWidget {
       extendBodyBehindAppBar: true,
       body: Container(
         //show full-size background
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage('images/light_background.png'),
-            fit: BoxFit.cover,
-          ),
-        ),
+        decoration: MyBoxDecoration('background'),
         //show icons
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -442,63 +482,11 @@ class MyHomePage extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
-                MaterialButton(
-                  height: 130.0,
-                  minWidth: 130.0,
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(20.0)),
-                  onPressed: () => Navigator.of(context).pushNamed('/camera'),
-                  color: Colors.black.withOpacity(0.3),
-                  padding: EdgeInsets.all(20.0),
-                  child: Column(
-                    // Replace with a Row for horizontal icon + text
-                    children: <Widget>[
-                      Icon(
-                        Icons.photo_camera,
-                        size: 60.0,
-                        color: Colors.white,
-                      ),
-                      Text(
-                        'CAMERA',
-                        style: TextStyle(
-                            fontSize: 20.0,
-                            fontFamily: 'Rajdhani',
-                            fontWeight: FontWeight.w700,
-                            color: Colors.white),
-                      ),
-                    ],
-                  ),
-                ),
+                MyMaterialButton(context, 'CAMERA', 58288),
                 SizedBox(
                   width: 15.0,
                 ),
-                MaterialButton(
-                  height: 130.0,
-                  minWidth: 130.0,
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(20.0)),
-                  onPressed: () => Navigator.of(context).pushNamed('/locator'),
-                  color: Colors.black.withOpacity(0.3),
-                  padding: EdgeInsets.all(20.0),
-                  child: Column(
-                    // Replace with a Row for horizontal icon + text
-                    children: <Widget>[
-                      Icon(
-                        Icons.location_on,
-                        size: 60.0,
-                        color: Colors.white,
-                      ),
-                      Text(
-                        'LOCATOR',
-                        style: TextStyle(
-                            fontSize: 20.0,
-                            fontFamily: 'Rajdhani',
-                            fontWeight: FontWeight.w700,
-                            color: Colors.white),
-                      ),
-                    ],
-                  ),
-                ),
+                MyMaterialButton(context, 'LOCATOR', 57544),
               ],
             ),
             SizedBox(
@@ -507,63 +495,11 @@ class MyHomePage extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
-                MaterialButton(
-                  height: 130.0,
-                  minWidth: 130.0,
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(20.0)),
-                  onPressed: () => Navigator.of(context).pushNamed('/stats'),
-                  color: Colors.black.withOpacity(0.3),
-                  padding: EdgeInsets.all(20.0),
-                  child: Column(
-                    // Replace with a Row for horizontal icon + text
-                    children: <Widget>[
-                      Icon(
-                        Icons.assessment,
-                        size: 60.0,
-                        color: Colors.white,
-                      ),
-                      Text(
-                        'STATS',
-                        style: TextStyle(
-                            fontSize: 20.0,
-                            fontFamily: 'Rajdhani',
-                            fontWeight: FontWeight.w700,
-                            color: Colors.white),
-                      ),
-                    ],
-                  ),
-                ),
+                MyMaterialButton(context, 'STATS', 59484),
                 SizedBox(
                   width: 15.0,
                 ),
-                MaterialButton(
-                  height: 130.0,
-                  minWidth: 130.0,
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(20.0)),
-                  onPressed: () => Navigator.of(context).pushNamed('/search'),
-                  color: Colors.black.withOpacity(0.3),
-                  padding: EdgeInsets.all(20.0),
-                  child: Column(
-                    // Replace with a Row for horizontal icon + text
-                    children: <Widget>[
-                      Icon(
-                        Icons.search,
-                        size: 60.0,
-                        color: Colors.white,
-                      ),
-                      Text(
-                        'SEARCH',
-                        style: TextStyle(
-                            fontSize: 20.0,
-                            fontFamily: 'Rajdhani',
-                            fontWeight: FontWeight.w700,
-                            color: Colors.white),
-                      ),
-                    ],
-                  ),
-                ),
+                MyMaterialButton(context, 'SEARCH', 59574),
               ],
             ),
             SizedBox(
@@ -572,63 +508,11 @@ class MyHomePage extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
-                MaterialButton(
-                  height: 130.0,
-                  minWidth: 130.0,
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(20.0)),
-                  onPressed: () => Navigator.of(context).pushNamed('/goals'),
-                  color: Colors.black.withOpacity(0.3),
-                  padding: EdgeInsets.all(20.0),
-                  child: Column(
-                    // Replace with a Row for horizontal icon + text
-                    children: <Widget>[
-                      Icon(
-                        Icons.flag,
-                        size: 60.0,
-                        color: Colors.white,
-                      ),
-                      Text(
-                        'GOALS',
-                        style: TextStyle(
-                            fontSize: 20.0,
-                            fontFamily: 'Rajdhani',
-                            fontWeight: FontWeight.w700,
-                            color: Colors.white),
-                      ),
-                    ],
-                  ),
-                ),
+                MyMaterialButton(context, 'GOALS', 57683),
                 SizedBox(
                   width: 15.0,
                 ),
-                MaterialButton(
-                  height: 130.0,
-                  minWidth: 130.0,
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(20.0)),
-                  onPressed: () => Navigator.of(context).pushNamed('/facts'),
-                  color: Colors.black.withOpacity(0.3),
-                  padding: EdgeInsets.all(20.0),
-                  child: Column(
-                    // Replace with a Row for horizontal icon + text
-                    children: <Widget>[
-                      Icon(
-                        Icons.announcement,
-                        size: 60.0,
-                        color: Colors.white,
-                      ),
-                      Text(
-                        'FACTS',
-                        style: TextStyle(
-                            fontSize: 20.0,
-                            fontFamily: 'Rajdhani',
-                            fontWeight: FontWeight.w700,
-                            color: Colors.white),
-                      ),
-                    ],
-                  ),
-                ),
+                MyMaterialButton(context, 'EVENTS', 59512),
               ],
             ),
           ],
@@ -699,12 +583,7 @@ class StatsPage extends StatelessWidget {
       extendBodyBehindAppBar: true,
       body: Container(
         //show full-size background
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage('images/light_background.png'),
-            fit: BoxFit.cover,
-          ),
-        ),
+        decoration: MyBoxDecoration('background'),
         //show icons
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -751,19 +630,11 @@ class StatsPage extends StatelessWidget {
                     children: [
                       Text(
                         '1033 kWh',
-                        style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            fontSize: 60.0,
-                            fontFamily: 'Rajdhani',
-                            color: Colors.white),
+                        style: LightThemeGrey().textTheme.headline4,
                       ),
                       Text(
                         'Power Saved',
-                        style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            fontSize: 20.0,
-                            fontFamily: 'Rajdhani',
-                            color: Colors.white60),
+                        style: LightThemeGrey().textTheme.subtitle1,
                       ),
                     ],
                   ),
@@ -785,19 +656,11 @@ class StatsPage extends StatelessWidget {
                     children: [
                       Text(
                         '10%',
-                        style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            fontSize: 60.0,
-                            fontFamily: 'Rajdhani',
-                            color: Colors.white),
+                        style: LightThemeGrey().textTheme.headline4,
                       ),
                       Text(
                         'From Last Week',
-                        style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            fontSize: 20.0,
-                            fontFamily: 'Rajdhani',
-                            color: Colors.white60),
+                        style: LightThemeGrey().textTheme.subtitle1,
                       ),
                     ],
                   ),
@@ -812,7 +675,39 @@ class StatsPage extends StatelessWidget {
   }
 }
 
-/* GOALS*/
+/* EVENTS */
+class EventsPage extends StatefulWidget {
+  @override
+  _EventsPageState createState() => _EventsPageState();
+}
+
+class _EventsPageState extends State<EventsPage> {
+  @override
+  Widget build(BuildContext context) {
+    return Theme(
+      data: LightThemeGrey(),
+      child: DefaultTabController(
+        length: 2,
+        child: Scaffold(
+          appBar: MyTabAppBar(context, 'EVENTS', 'ONGOING', 'FOLLOWING'),
+          //show background behind the app bar
+          extendBodyBehindAppBar: true,
+          body: TabBarView(
+            children: [
+              //TODO: Edit the page
+              MyListView(),
+              //TODO: Add the content
+              Icon(Icons.directions_car),
+            ],
+          ),
+          drawer: MyDrawer(),
+        ),
+      ),
+    );
+  }
+}
+
+/* GOALS */
 class GoalsPage extends StatefulWidget {
   @override
   _GoalsPageState createState() => _GoalsPageState();
@@ -822,68 +717,20 @@ class _GoalsPageState extends State<GoalsPage> {
   @override
   Widget build(BuildContext context) {
     return Theme(
-      data: ThemeData(primaryIconTheme: IconThemeData(color: Colors.grey)),
-      child: Scaffold(
-        appBar: MyAppBar.getAppBar(context, Colors.grey, 'GOALS'),
-        //show background behind the app bar
-        extendBodyBehindAppBar: true,
-        body: Container(),
-        drawer: MyDrawer(),
-      ),
-    );
-  }
-}
-
-/* FACTS */
-class FactsPage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Theme(
       data: LightThemeGrey(),
       child: DefaultTabController(
         length: 2,
         child: Scaffold(
-          appBar: MyTabAppBar(context, 'FACTS', 'LEARN', 'NEWS'),
+          appBar: MyTabAppBar(context, 'GOALS', 'CURRENT', 'PAST'),
           //show background behind the app bar
           extendBodyBehindAppBar: true,
-          body: Padding(
-            padding: const EdgeInsets.fromLTRB(0, 20, 0, 0),
-            child: SafeArea(
-              child: TabBarView(
-                children: [
-                  ListView(
-                    padding: const EdgeInsets.symmetric(vertical: 8.0),
-                    children: <Widget>[
-                      MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                          'light_background'),
-                      SizedBox(height: 8.0),
-                      MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                          'light_background'),
-                      SizedBox(height: 8.0),
-                      MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                          'light_background'),
-                      SizedBox(height: 8.0),
-                      MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                          'light_background'),
-                      SizedBox(height: 8.0),
-                      MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                          'light_background'),
-                      SizedBox(height: 8.0),
-                      MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                          'light_background'),
-                      SizedBox(height: 8.0),
-                      MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                          'light_background'),
-                      SizedBox(height: 8.0),
-                      MyFacts(context, 'PLASTIC', 'THE MOST UNRECYCLED',
-                          'light_background'),
-                    ],
-                  ),
-                  //TODO: Add news
-                  Icon(Icons.directions_transit)
-                ],
-              ),
-            ),
+          body: TabBarView(
+            children: [
+              //TODO: Edit the page
+              MyListView(),
+              //TODO: Add the content
+              Icon(Icons.directions_car),
+            ],
           ),
           drawer: MyDrawer(),
         ),
@@ -892,8 +739,8 @@ class FactsPage extends StatelessWidget {
   }
 }
 
-/* FACTS - Details/Descriptions */
-//TODO: Pass variable from clicked FACTS to show in PageView's pages.
+/* SEARCH - Details/Descriptions */
+//TODO: Pass variable from clicked EVENTS to show in PageView's pages.
 class PageViewDemo extends StatefulWidget {
   @override
   _PageViewDemoState createState() => _PageViewDemoState();
@@ -933,7 +780,7 @@ class MyPage1Widget extends StatelessWidget {
       body: SafeArea(
         child: PageWidgetContent(
             context,
-            'light_background',
+            'background',
             'Bring Your Own Bag',
             'We produce more than 280 million tons of plastics. That’s about ten stone mountains every day!',
             0.0,
@@ -952,7 +799,7 @@ class MyPage2Widget extends StatelessWidget {
       extendBodyBehindAppBar: true,
       body: SafeArea(
         child: PageWidgetContent(
-            context, 'light_background', '123', 'Easy as ABC!', 1.0, 'Next'),
+            context, 'background', '123', 'Easy as ABC!', 1.0, 'Next'),
       ),
     );
   }
@@ -967,7 +814,7 @@ class MyPage3Widget extends StatelessWidget {
       extendBodyBehindAppBar: true,
       body: SafeArea(
         child: PageWidgetContent(
-            context, 'light_background', 'ABC', 'Easy as 123!', 2.0, 'Close'),
+            context, 'background', 'ABC', 'Easy as 123!', 2.0, 'Close'),
       ),
     );
   }
@@ -991,35 +838,9 @@ class _SearchPageState extends State<SearchPage> {
           //show background behind the app bar
           extendBodyBehindAppBar: true,
           body: Padding(
-            padding: const EdgeInsets.fromLTRB(0, 20, 0, 0),
+            padding: const EdgeInsets.fromLTRB(0, 30, 0, 0),
             child: SafeArea(
-              child: ListView(
-                children: <Widget>[
-                  MyFacts(context, recyclable[0], recyclable_description[0],
-                      'light_background'),
-                  SizedBox(height: 8.0),
-                  MyFacts(context, recyclable[1], recyclable_description[1],
-                      'light_background'),
-                  SizedBox(height: 8.0),
-                  MyFacts(context, recyclable[2], recyclable_description[2],
-                      'light_background'),
-                  SizedBox(height: 8.0),
-                  MyFacts(context, recyclable[3], recyclable_description[3],
-                      'light_background'),
-                  SizedBox(height: 8.0),
-                  MyFacts(context, recyclable[4], recyclable_description[4],
-                      'light_background'),
-                  SizedBox(height: 8.0),
-                  MyFacts(context, recyclable[5], recyclable_description[5],
-                      'light_background'),
-                  SizedBox(height: 8.0),
-                  MyFacts(context, recyclable[6], recyclable_description[6],
-                      'light_background'),
-                  SizedBox(height: 8.0),
-                  MyFacts(context, recyclable[7], recyclable_description[7],
-                      'light_background'),
-                ],
-              ),
+              child: MyListView(),
             ),
           ),
           drawer: MyDrawer(),
@@ -1029,15 +850,222 @@ class _SearchPageState extends State<SearchPage> {
   }
 }
 
-class Example extends StatefulWidget {
-  @override
-  _ExampleState createState() => _ExampleState();
+/* SEARCH, EVENTS, GOALS - ListView for Array Recyclable */
+ListView MyListView() {
+  return ListView.builder(
+    itemCount: recyclable.length,
+    itemBuilder: (context, index) {
+      String imagename = recyclable[index].title;
+      return Padding(
+        padding: const EdgeInsets.fromLTRB(0, 10, 0, 0),
+        child: Container(
+          height: 120,
+          decoration: MyBoxDecoration(imagename),
+          child: Center(
+            child: ListTile(
+              title: Text(
+                recyclable[index].title,
+                style: LightThemeGrey().textTheme.headline2,
+              ),
+              subtitle: Text(
+                recyclable[index].description,
+                style: LightThemeGrey().textTheme.bodyText2,
+              ),
+              trailing: Icon(Icons.keyboard_arrow_right,
+                  size: 60.0, color: Colors.white),
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) =>
+                        DetailScreen(recyclable: recyclable[index]),
+                  ),
+                );
+              },
+            ),
+          ),
+        ),
+      );
+    },
+  );
 }
 
-//TODO: remove this example after completing the work
-class _ExampleState extends State<Example> {
+/* SEARCH - Details */
+class DetailScreen extends StatelessWidget {
+  final Recyclable recyclable;
+  DetailScreen({Key key, @required this.recyclable}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
-    return Container(color: Colors.red);
+    //set variables
+    String imagename = recyclable.title;
+    String recycle = recyclable.recycle;
+    String instruction = recyclable.instruction;
+    String why = recyclable.why;
+    String donate = recyclable.donate;
+
+    return Scaffold(
+      body: CustomScrollView(
+        physics: const BouncingScrollPhysics(),
+        slivers: <Widget>[
+          //App Bar을 위로 밀면 없애줌 (혹은 타이틀만 보여줌)
+          SliverAppBar(
+            expandedHeight: 200.0,
+            pinned: false,
+            floating: false,
+            backgroundColor: Colors.transparent,
+            onStretchTrigger: () {
+              // Function callback for stretch
+              return;
+            },
+            flexibleSpace: FlexibleSpaceBar(
+              //아래로 쭉 땡기면 블러됨
+              stretchModes: <StretchMode>[
+                StretchMode.zoomBackground,
+                StretchMode.blurBackground,
+                StretchMode.fadeTitle,
+              ],
+              centerTitle: true,
+              //타이틀
+              title: Text('$imagename',
+                  style: TextStyle(
+                      fontSize: 55.0,
+                      fontFamily: 'Rajdhani',
+                      fontWeight: FontWeight.w700,
+                      color: Colors.white)),
+              //타이틀 배경
+              background: Container(
+                decoration: MyBoxDecoration(imagename),
+              ),
+            ),
+            //오른쪽 위에 있는 홈으로 가는 아이콘
+            actions: <Widget>[
+              IconButton(
+                icon: Icon(
+                  Icons.widgets,
+                  color: Colors.white,
+                ),
+                tooltip: 'Home Page',
+                //show side pages
+                onPressed: () => Navigator.of(context).pushNamed('/HOME'),
+              ),
+            ],
+          ),
+          SliverPadding(
+            padding: EdgeInsets.all(20.0),
+            sliver: SliverList(
+              delegate: SliverChildListDelegate([
+                //recyclable 알려줌
+                Row(
+                  children: [
+                    Text('This item is ',
+                        style: LightThemeGrey().textTheme.bodyText1),
+                    Text('$recycle',
+                        style: LightThemeGrey().textTheme.subtitle2),
+                    Text('.', style: LightThemeGrey().textTheme.bodyText1),
+                  ],
+                ),
+                SizedBox(height: 20.0),
+                //TODO: recyclable 할때만 보이기?
+                //recycle 버튼
+                Material(
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(5.0)),
+                  elevation: 10.0,
+                  color: Colors.green,
+                  child: MaterialButton(
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        Icon(
+                          Icons.location_on,
+                          color: Colors.white,
+                        ),
+                        SizedBox(width: 10.0),
+                        const Text('RECYCLE NEAR ME',
+                            style:
+                                TextStyle(fontSize: 20, color: Colors.white)),
+                      ],
+                    ),
+                  ),
+                ),
+                SizedBox(height: 10.0),
+                Divider(
+                  color: Colors.black,
+                  thickness: 1,
+                ),
+                SizedBox(height: 10.0),
+                //instruction 보여줌
+                Text('Instruction',
+                    style: LightThemeGrey().textTheme.subtitle2),
+                Text('$instruction',
+                    style: LightThemeGrey().textTheme.bodyText1),
+                //TODO: YouTube Demonstration?
+                SizedBox(height: 10.0),
+                Divider(
+                  color: Colors.black,
+                  thickness: 1,
+                ),
+                SizedBox(height: 10.0),
+                //why 보여줌
+                Text('Why?', style: LightThemeGrey().textTheme.subtitle2),
+                Text('$why', style: LightThemeGrey().textTheme.bodyText1),
+                SizedBox(height: 10.0),
+                Divider(
+                  color: Colors.black,
+                  thickness: 1,
+                ),
+                SizedBox(height: 10.0),
+                //donatable 알려줌
+                Row(
+                  children: [
+                    Text('This item ',
+                        style: LightThemeGrey().textTheme.bodyText1),
+                    Text('$donate',
+                        style: LightThemeGrey().textTheme.subtitle2),
+                    Text('.', style: LightThemeGrey().textTheme.bodyText1),
+                  ],
+                ),
+                SizedBox(height: 20.0),
+                //TODO: donatable 할때만 보이기?
+                //donate 버튼
+                Material(
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(5.0)),
+                  elevation: 10.0,
+                  color: Colors.blueAccent,
+                  child: MaterialButton(
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        Icon(
+                          Icons.location_on,
+                          color: Colors.white,
+                        ),
+                        SizedBox(width: 10.0),
+                        const Text('DONATE NEAR ME',
+                            style:
+                                TextStyle(fontSize: 20, color: Colors.white)),
+                      ],
+                    ),
+                  ),
+                ),
+                SizedBox(height: 10.0),
+                Divider(
+                  color: Colors.black,
+                  thickness: 1,
+                ),
+                SizedBox(height: 10.0),
+                //유저가 모은 사진들
+                Text('Your Collected Pictures',
+                    style: LightThemeGrey().textTheme.subtitle2),
+                //TODO: 유저가 모은 사진들 옆으로 볼 수 있게끔 만들기.
+                // ListTiles++
+              ]),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 }

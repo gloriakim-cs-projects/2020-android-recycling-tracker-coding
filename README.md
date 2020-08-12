@@ -40,7 +40,11 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Inspiring App Design](https://www.behance.net/gallery/77578081/greendeeds-Recycling-App?tracking_source=search_projects_recommended%7Crecycling)
 
 ### Photo
-- [Kalen Emsley](https://unsplash.com/photos/Bkci_8qcdvQ)
+- **Main:** <span>Photo by <a href="https://unsplash.com/@kalenemsley?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kalen Emsley</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- **Plastics:** <span>Photo by <a href="https://unsplash.com/@exportersindia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">tanvi sharma</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- **Cardboards:** <span>Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">chuttersnap</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- **Clothing:** <span>Photo by <a href="https://unsplash.com/@theburbgirl?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lauren Fleischmann</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- **Computer:** <span>Photo by <a href="https://unsplash.com/@cgower?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christopher Gower</a> on <a href="https://unsplash.com/s/photos/computer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ### Coding
 - [Nativate Screens](https://stackoverflow.com/questions/44004451/navigator-operation-requested-with-a-context-that-does-not-include-a-navigator)

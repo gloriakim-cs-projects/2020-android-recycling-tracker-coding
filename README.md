@@ -68,6 +68,7 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [ScrollView (SEARCH - Details)](https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html)
 - [TFLite](https://pub.dev/packages/tflite)
 - [Camera](https://pub.dev/packages/camera/example)
+- [TFLite Implementation](https://www.youtube.com/watch?v=-5kUv47xKy0&t=573s)
 
 ## Author
 

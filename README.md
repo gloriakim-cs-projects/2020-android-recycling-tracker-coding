@@ -67,8 +67,9 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Icon Code (Passing Icons)](https://stackoverflow.com/questions/57869179/dynamic-icons-in-flutter)
 - [ScrollView (SEARCH - Details)](https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html)
 - [TFLite](https://pub.dev/packages/tflite)
-- [Camera](https://pub.dev/packages/camera/example)
+- [Camera](https://pub.dev/packages/camera/example) --> [Gallery_Saver](https://pub.dev/packages/gallery_saver)
 - [TFLite Implementation](https://www.youtube.com/watch?v=-5kUv47xKy0&t=573s)
+
 
 ## Author
 

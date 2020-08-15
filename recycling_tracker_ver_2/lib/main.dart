@@ -1,15 +1,19 @@
+import 'dart:io';
+
 import 'package:flutter/cupertino.dart';
+import 'package:dots_indicator/dots_indicator.dart'; //bottom dot indicator
 import 'package:flutter/material.dart';
+//locator
 import 'package:google_maps_flutter/google_maps_flutter.dart'; //google map
 import 'package:recycling_tracker_ver_2/services/geolocator_service.dart';
 import 'package:url_launcher/url_launcher.dart'; //google map directions
 import 'package:geolocator/geolocator.dart'; //location service
+//camera libraries
 import 'package:provider/provider.dart';
-import 'package:http/http.dart';
-import 'package:camera/camera.dart';
-//TODO: implement machine learning with camera! https://www.youtube.com/watch?v=cyhuPzAlgUU
-//probably capture image and save the image and call the image to sort out
-import 'package:dots_indicator/dots_indicator.dart'; //bottom dot indicator
+import 'package:gallery_saver/gallery_saver.dart';
+import 'package:image_picker/image_picker.dart';
+//tflite
+import 'package:tflite/tflite.dart';
 
 //TODO: before publish, make sure all functiosn are used. How? search for the function/classes's name. if there is only one found (the function itsef) ,then remove it.
 
@@ -46,10 +50,6 @@ List<Recyclable> recyclable = [
   Recyclable('COMPUTERS', 'abc4', 'instruction123', 'why123', 'recyclable',
       'can be donated'),
 ];
-
-void main() {
-  runApp(MyApp());
-}
 
 class MyApp extends StatelessWidget {
   @override
@@ -443,6 +443,13 @@ MaterialButton MyMaterialButton(
     height: 130.0,
     minWidth: 130.0,
     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20.0)),
+//TODO: fix onPressed issue
+//    onPressed: () {
+//      iconCode == 'CAMERA'
+//          ? _takePhoto()
+//          : Navigator.of(context).pushNamed('/$iconName');
+//      setState(() {});
+//    },
     onPressed: () => Navigator.of(context).pushNamed('/$iconName'),
     color: Colors.black.withOpacity(0.3),
     padding: EdgeInsets.all(20.0),
@@ -530,11 +537,48 @@ class CameraPage extends StatefulWidget {
 }
 
 class _CameraPageState extends State<CameraPage> {
+  double textSize = 20;
+  String albumName = 'Media';
+
+//TODO: 지금 새로운 페이지를 열어야지만이 take photo로 가는 상황임. fix this.
   @override
   Widget build(BuildContext context) {
-    return Container(color: Colors.red);
+    return MaterialApp(
+        home: Scaffold(
+      body: Container(
+        color: Colors.white,
+        child: Expanded(
+          child: RaisedButton(
+            color: Colors.blue,
+            onPressed: _takePhoto,
+          ),
+        ),
+      ),
+    ));
+  }
+
+  void _takePhoto() async {
+//    final _picker = ImagePicker();
+//    PickedFile pickedFile = await _picker.getImage(source: ImageSource.camera);
+//    final File file = File(pickedFile.path);
+    ImagePicker.pickImage(source: ImageSource.camera)
+        .then((File recordedImage) {
+      if (recordedImage != null && recordedImage.path != null) {
+        GallerySaver.saveImage(recordedImage.path, albumName: albumName)
+            .then((bool success) {});
+      }
+    });
   }
 }
+
+//TODO: add tensorflow
+//String res = await Tflite.loadModel(
+//model: "assets/mobilenet_v1_1.0_224.tflite",
+//labels: "assets/labels.txt",
+//numThreads: 1, // defaults to 1
+//isAsset: true, // defaults to true, set to false to load resources outside assets
+//useGpuDelegate: false // defaults to false, set to true to use GPU delegate
+//);
 
 /* LOCATOR */
 class LocatorPage extends StatefulWidget {
@@ -974,6 +1018,7 @@ class DetailScreen extends StatelessWidget {
                   elevation: 10.0,
                   color: Colors.green,
                   child: MaterialButton(
+                    //TODO: onPressed: ()
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
@@ -1035,6 +1080,7 @@ class DetailScreen extends StatelessWidget {
                   elevation: 10.0,
                   color: Colors.blueAccent,
                   child: MaterialButton(
+                    //TODO: onPressed(),
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
@@ -1067,5 +1113,107 @@ class DetailScreen extends StatelessWidget {
         ],
       ),
     );
+  }
+}
+
+//TODO: TFLite - pass the image to TFLite to classify and then move to the information page
+class TFLite extends StatefulWidget {
+  @override
+  _TFLiteState createState() => _TFLiteState();
+}
+
+class _TFLiteState extends State<TFLite> {
+  List _outputs;
+  File _image;
+  bool _loading = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _loading = true;
+
+    loadModel().then((value) {
+      setState(() {
+        _loading = false;
+      });
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Teachable Machine Learning'),
+      ),
+      body: _loading
+          ? Container(
+              alignment: Alignment.center,
+              child: CircularProgressIndicator(),
+            )
+          : Container(
+              width: MediaQuery.of(context).size.width,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  _image == null ? Container() : Image.file(_image),
+                  SizedBox(
+                    height: 20,
+                  ),
+                  _outputs != null
+                      ? Text(
+                          "${_outputs[0]["label"]}",
+                          style: TextStyle(
+                            color: Colors.black,
+                            fontSize: 20.0,
+                            background: Paint()..color = Colors.white,
+                          ),
+                        )
+                      : Container()
+                ],
+              ),
+            ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: pickImage,
+        child: Icon(Icons.image),
+      ),
+    );
+  }
+
+  pickImage() async {
+    var image = await ImagePicker.pickImage(source: ImageSource.gallery);
+    if (image == null) return null;
+    setState(() {
+      _loading = true;
+      _image = image;
+    });
+    classifyImage(image);
+  }
+
+  classifyImage(File image) async {
+    var output = await Tflite.runModelOnImage(
+      path: image.path,
+      numResults: 72,
+//      threshold: 0.5,
+//      imageMean: 127.5,
+//      imageStd: 127.5,
+    );
+    setState(() {
+      _loading = false;
+      _outputs = output;
+    });
+  }
+
+  loadModel() async {
+    await Tflite.loadModel(
+      model: "assets/recycling.tflite",
+      labels: "assets/label.txt",
+    );
+  }
+
+  @override
+  void dispose() {
+    Tflite.close();
+    super.dispose();
   }
 }

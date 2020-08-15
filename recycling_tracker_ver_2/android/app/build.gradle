@@ -52,6 +52,11 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    //tensorflow
+    aaptOptions {
+        noCompress 'tflite'
+        noCompress 'lite'
+    }
 }
 
 flutter {

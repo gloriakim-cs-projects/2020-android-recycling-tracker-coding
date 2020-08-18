@@ -14,3 +14,11 @@
 - [ ] Events (REMOVED)
 - [ ] Array Descriptions
 - [ ] Array Pictures
+
+# Tips I learned
+
+When `main.dart` is not connected, do the following:
+(1) File -> Project Structure -> Module
+(2) Add the root folder of the project (then it will detect that its a flutter app again)
+(3) Build again
+

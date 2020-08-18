@@ -60,55 +60,160 @@ https://unsplash.com/photos/RMuPNY8lqAM
 https://unsplash.com/photos/T0MaU-xNMNQ
 
 COFFEE MACHINE
-
+https://unsplash.com/photos/1pZbNwlGzNY
 
 COMB
+
 COMPUTER
+(already done)
+
 DETERGENT
+
 EARPHONE
+https://unsplash.com/photos/KQK2F0u7WPo
+
 ERASER
+https://unsplash.com/photos/T-GjUWPW-oI
+Erasers are made of rubbers, which cannot be recycled. Plus, erasers are so small that they can be stuck inside of recycling machines. So, it's a better idea to simply throw it into a trashcan, or donate them in here: (URL)
+
 FAN
+https://unsplash.com/photos/FSIT7PcgXC0
+
 FOOD SCRAP
+https://unsplash.com/photos/R18ecx07b3c
+https://unsplash.com/photos/EvoIiaIVRzU
+
 FRYING PAN
+https://unsplash.com/photos/j5tFG39qYKw
+
 FURNITURE
+https://unsplash.com/photos/fZuleEfeA1Q
+
 GLASS BOTTLE
+https://unsplash.com/photos/GYa8M9k6Q5w
+https://unsplash.com/photos/4mdUOt035ak
+https://unsplash.com/photos/PzmU88f-b-M
+https://unsplash.com/photos/Hc6MQLgCVtc
+https://unsplash.com/photos/cOanuQQ1-5c
+https://unsplash.com/photos/Lr9237Ul5zw
+https://unsplash.com/photos/wPEjA22-yxE
+
 GLASS CUP
+https://unsplash.com/photos/sXvTI1KNzzQ
+https://unsplash.com/photos/RGwhPC5tLMQ
+https://unsplash.com/photos/GSryXzIsrhA
+https://unsplash.com/photos/rnkaQvfo1ps
+https://unsplash.com/photos/_2ApJ71gWUk
+https://unsplash.com/photos/7b1W1mcwekw
+(beaker) https://unsplash.com/photos/lQGJCMY5qcM
+https://unsplash.com/photos/R0fGMKUTqps
+
+
 GLASS JAR
+https://unsplash.com/photos/mV_fzXhwiOg
+
 GLASSES
+https://unsplash.com/photos/0R1ci4Rb9jU
+
 HAIR DRYER
+https://unsplash.com/photos/yutgPvmHxYQ
+https://unsplash.com/photos/FkAZqQJTbXM
+
 HAIRBRUSH
+
 HANGER
+https://unsplash.com/photos/kw6UuM73OjM
+WOOD / PLASTIC
+
 JUICE BOX
+
 JUICE POUCH
+
 LAMP
-LAPTOP
+https://unsplash.com/photos/VDPauwJ_sHo
+
+LAPTOP (COMPUTER이랑 바꿔야 함)
+https://unsplash.com/photos/gyRa86ExKTw
+
 LIGHTBULB
+https://unsplash.com/photos/frJ4mqE5DNY
+
 MEDICINE
+https://unsplash.com/photos/nss2eRzQwgw
+
 MUG
+https://unsplash.com/photos/fKTOvTakwM8
+
 PAPER
+https://unsplash.com/photos/aJTiW00qqtI
+
 PAPER CUP
+https://unsplash.com/photos/rlpjYDltnS0
+https://unsplash.com/photos/tZ491UdXv7g
+커피컵은 비닐이 있어서 노노. 그냥 페이퍼컵은 이물질만 안들었다면 오키.
+
 PAPER PLATE
+https://unsplash.com/photos/f1X5w9ToNQY
+
 PAPER TOWEL
+https://unsplash.com/photos/9gzU1mtTzWM
+
 PEN
+https://unsplash.com/photos/LFGAatMUDvc
+
 PILLOW
+https://unsplash.com/photos/fQ2XuWjSzfE
+
 PIZZA BOX
+https://unsplash.com/photos/nP11TkjxJ7s
+
 PLASTIC BAG
+https://unsplash.com/photos/IvWEUvMwmlg
+
 PLASTIC CUP
+https://unsplash.com/photos/n2jBqgOQ5bM
+
 PLASTIC DRINK BOTTLE
+https://unsplash.com/photos/JVSHDB5p4gE 이거 맞나..?
+
 PLASTIC JUG
+
 PLASTIC LIQUID BOTTLE
+
 PLASTIC SAUCE BOTTLE
+
 PLASTIC UTENCIL
+
 POT
+https://unsplash.com/photos/W1BG159xt5Q
+
 REFRIGRATOR
+
 RUG
+https://unsplash.com/photos/UMo3_QxeIRI
+
 SCISSORS
+https://unsplash.com/photos/SmocKx2oDZc
+
 SHOES
+https://unsplash.com/photos/Np_nvRuhpUo
+
 SILVERWARE
+https://unsplash.com/photos/vZZfVCUOKfw
+
 STEEL CAN
+https://unsplash.com/photos/aBYhjZVfNfU
+
 STRAW
+https://unsplash.com/photos/fF8F-ak1F6M
+https://unsplash.com/photos/QXreO9Hu0UE
+https://unsplash.com/photos/dgiJ0EdpPFM
+
 STYROFOAM BOX
+
 STYROFOAM
+https://unsplash.com/photos/XiRjzUkIa-4 (cup)
+
 SURGE PROTECTOR
 TEXTILE
 TISSUE

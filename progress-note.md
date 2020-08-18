@@ -168,7 +168,7 @@ PIZZA BOX
 https://unsplash.com/photos/nP11TkjxJ7s
 
 PLASTIC BAG
-https://unsplash.com/photos/IvWEUvMwmlg
+https://unsplash.com/photos/nnlRR2NF2ko
 
 PLASTIC CUP
 https://unsplash.com/photos/n2jBqgOQ5bM
@@ -215,16 +215,35 @@ STYROFOAM
 https://unsplash.com/photos/XiRjzUkIa-4 (cup)
 
 SURGE PROTECTOR
+
 TEXTILE
+https://unsplash.com/photos/N_wGDmRL4hQ
+
 TISSUE
+https://unsplash.com/photos/gSdhs5DJ1bg
+
 TO GO BOX
+https://unsplash.com/photos/GiZuNZ85zQc
+
 TOOTHBRUSH
+https://unsplash.com/photos/CsPCTYYxalw
+
 TOOTHPASTE
+
 TOWEL
+https://unsplash.com/photos/dTNq6oYQQFY
+
 TRASH BAG
-TV
+https://unsplash.com/photos/IvWEUvMwmlg
+
+TV --> Television으로 바꾸는 게 나을듯?
+https://unsplash.com/photos/kAxq92OhMJM
+
 UMBRELLA
+https://unsplash.com/photos/dzcxi90SfdM
+
 USB FLASH DRIVE
+https://unsplash.com/photos/RWTq8Q3ErlU
 
 # Tips I learned
 

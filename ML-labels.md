@@ -1,41 +1,51 @@
 # ML Labels to Classify
 The labels (as well as image names) should be written as all caps to classify.
 
+***REMEMBER: 만약 여기 LABEL고치면 IMAGE NAME도 고쳐야 함!!!
+
 ## FINAL LABELS (Combined with old & new and modify a bit)
 
-AEROSOL CAN (EMPTY) // 스프레이 캔
+AEROSOL CAN (EMPTY) // 스프레이 캔 
+- <span>Photo by <a href="https://unsplash.com/@timmossholder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Mossholder</a> on <a href="https://unsplash.com/s/photos/aerosol-can?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 AEROSOL CAN (FULL OR PARTIALLY FULL)
 
-ANIMAL WASTE & BEDDING
+ANIMAL WASTE 
+- <span>Photo by <a href="https://unsplash.com/@lexyism?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">alexandra lammerink</a> on <a href="https://unsplash.com/s/photos/dog-restroom?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ANTIFREEZE
 
 ASEPTIC CARTON // 네모난 우유곽
 
 BACKPACK
+- <span>Photo by <a href="https://unsplash.com/@olroque?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Omar Roque</a> on <a href="https://unsplash.com/s/photos/backpack?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 BAG (PLASTIC)
+- <span>Photo by <a href="https://unsplash.com/@vegaguy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christopher Vega</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 BAKED GOODS
+- <span>Photo by <a href="https://unsplash.com/@carolynchristine?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">carolyn christine</a> on <a href="https://unsplash.com/s/photos/baked-goods?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 BAKING TRAY (ALUMINUM)
+- <span>Photo by <a href="https://unsplash.com/@karishea?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kari Shea</a> on <a href="https://unsplash.com/s/photos/baking-tray?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 BALL
+- <span>Photo by <a href="https://unsplash.com/@greysonjoralemon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Greyson Joralemon</a> on <a href="https://unsplash.com/s/photos/ball?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-BALLOONS
+BALLOON
+- <span>Photo by <a href="https://unsplash.com/@sagarp7?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sagar Patil</a> on <a href="https://unsplash.com/s/photos/balloons?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 BARBEQUE
+- <span>Photo by <a href="https://unsplash.com/@jontyson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jon Tyson</a> on <a href="https://unsplash.com/s/photos/barbeque?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 BARBEQUE GRILL
+- <span>Photo by <a href="https://unsplash.com/@evanthewise?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Evan Wise</a> on <a href="https://unsplash.com/s/photos/barbeque?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 BASKETBALL HOOP
+- <span>Photo by <a href="https://unsplash.com/@graybill_?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ryan Graybill</a> on <a href="https://unsplash.com/s/photos/basketball-hoop?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-BATHROOM COUNTERTOP
-
-BATTERIES
-
-BATTERY (CAR)
+BATTERY
+- <span>Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mika Baumeister</a> on <a href="https://unsplash.com/s/photos/battery?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 BATTERY (DISPOSABLE)
 
@@ -1165,3 +1175,4 @@ WAX PAPER
 WRAPPER 
 WRAPPING PAPER (FOIL) 
 WRAPPING PAPER (PAPER ONLY)
+

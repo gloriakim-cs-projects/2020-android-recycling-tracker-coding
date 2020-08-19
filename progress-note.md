@@ -29,21 +29,22 @@
 - array label다시 고치기
 - array picture을 다 맞게 저장하기
 - array description 시작 (이건 안되면 내일)
-- 성민이 descriptoin 끝내기 + 뭔가 쓰는 거 긴 거 하나 끝내기 + 데드라인 확인
 
 목:
 - search option 완벽히 하기
 - array description 완벽히 하기
 - locator 전부 배끼기
-- 성민이 의견 1/2 끝내기
+- 성민이 descriptoin 끝내기 + 뭔가 쓰는 거 긴 거 하나 끝내기 + 데드라인 확인
 
 금: 
 - Stat 끝내기
-- 성민이 의견 남은 1/2 끝내기 
+- 성민이 의견 1/2 끝내기 
 
 토: 
 - Goal 넣기
 - 클래스 확인
+- 성민이 의견 남은 1/2 끝내기
+
 
 일: 
 - Event 

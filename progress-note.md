@@ -1,10 +1,17 @@
 # Progress Note
 
+## DONE
 - [X] Main
 - [X] Camera
      - [X] Machine Learning
+
+## NEED TO DONE
 - [ ] Locator
-- [X] Stats (Come back to add detailed daily, weekly, monthly stats)
+    - [ ] 일단 배낌. 
+    - [ ] 아래 밀면 떠오르는 거. + icon 클릭하면 나오는 description. (이해를 못했는데 할 수 있나 ㅜㅜ 일단 무조건 배끼고 보자.)
+    - [ ] floating point를 사용해서 사용자도 넣을 수 있게.
+- [ ] Stats 
+     - Come back to add detailed daily, weekly, monthly stats
      - https://www.youtube.com/watch?v=qt3N7w1E6lc
      - ![image](https://user-images.githubusercontent.com/68700599/90002144-e3c7a980-dc57-11ea-9189-6c7f356a478a.png)
 - [X] Search (Come back to add 'Collected pictures' & possibly YouTube demonstrations)
@@ -14,6 +21,32 @@
 - [ ] Events (REMOVED)
 - [ ] Array Descriptions
 - [ ] Array Pictures
+
+### Schedule
+수: 
+- Search option 끝내기 (이건 안되면 내일)
+- Android emulator 고치기
+- array label다시 고치기
+- array picture을 다 맞게 저장하기
+- array description 시작 (이건 안되면 내일)
+- 성민이 descriptoin 끝내기 + 뭔가 쓰는 거 긴 거 하나 끝내기 + 데드라인 확인
+
+목:
+- search option 완벽히 하기
+- array description 완벽히 하기
+- locator 전부 배끼기
+- 성민이 의견 1/2 끝내기
+
+금: 
+- Stat 끝내기
+- 성민이 의견 남은 1/2 끝내기 
+
+토: 
+- Goal 넣기
+- 클래스 확인
+
+일: 
+- Event 
 
 # Array Pictures
 

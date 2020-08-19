@@ -9,6 +9,7 @@ AEROSOL CAN (EMPTY) // 스프레이 캔
 - <span>Photo by <a href="https://unsplash.com/@timmossholder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Mossholder</a> on <a href="https://unsplash.com/s/photos/aerosol-can?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 AEROSOL CAN (FULL OR PARTIALLY FULL)
+https://unsplash.com/photos/2HyX02gdxYM ??
 
 ANIMAL WASTE 
 - <span>Photo by <a href="https://unsplash.com/@lexyism?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">alexandra lammerink</a> on <a href="https://unsplash.com/s/photos/dog-restroom?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -51,17 +52,27 @@ BATTERY (DISPOSABLE)
 
 BATTERY (RECHARGEABLE)
 
-BED
+BED FRAME (METAL)
+
+BED FRAME (WOODEN)
 
 BEVERAGE BOTTLE (PLASTIC)
+https://unsplash.com/photos/JVSHDB5p4gE
+
+BEVERAGE BOTTLE (GLASS)
+https://unsplash.com/photos/zdST-pr0Z_I 자르고 쓰기
 
 BEVERAGE CAN (METAL)
-
+https://unsplash.com/photos/sQNq223Rr54 (로고 지운다면)
 BICYCLE
 
 BINDER
+(이미 잇을걸)
+https://unsplash.com/photos/05HLFQu8bFw
 
 BLANKET
+https://unsplash.com/photos/rYPW3gKsbYc
+https://unsplash.com/photos/cOAlCJeI7PY
 
 BLEACH
 
@@ -80,6 +91,7 @@ BOTTLE (GLASS)
 BOTTLE (PLASTIC)
 
 BOTTLE CAP (PLASTIC)
+https://unsplash.com/photos/OTDyDgPoJ_0
 
 BOX (CARDBOARD)
 
@@ -404,6 +416,7 @@ PIE PLATE (ALUMINUM)
 PILL BOTTLE (EMPTY)
 
 PILLOW
+https://unsplash.com/photos/_LnqNEEeGUo
 
 PILLOW
 
@@ -524,6 +537,7 @@ TEABAGS
 TELEVISION
 
 TEXTILE
+https://unsplash.com/photos/QZjdwUK_qvY
 
 TISSUE PAPER
 
@@ -572,6 +586,9 @@ WATER BOTTLE (PLASTIC)
 WATER FILTER
 
 WAX PAPER
+
+WIPE
+https://unsplash.com/photos/lLqGziP8H48
 
 WRAP (PLASTIC)
 
@@ -863,6 +880,7 @@ VCR PLAYER
 WATER BOTTLE (PLASTIC)
 WATER FILTER
 WAX PAPER
+WIPE
 WRAP (PLASTIC)
 WRAPPER
 WRAPPING PAPER (FOIL) --> aluminum foil이랑 같지 않나?

@@ -29,61 +29,27 @@
 - array label다시 고치기
 - array picture을 다 맞게 저장하기
 - array description 시작 (이건 안되면 내일)
+- 성민이 descriptoin 끝내기 + 뭔가 쓰는 거 긴 거 하나 끝내기 + 데드라인 확인
 
 목:
 - search option 완벽히 하기
 - array description 완벽히 하기
 - locator 전부 배끼기
-- 성민이 descriptoin 끝내기 + 뭔가 쓰는 거 긴 거 하나 끝내기 + 데드라인 확인
+- 성민이 의견 1/2 끝내기
 
 금: 
 - Stat 끝내기
-- 성민이 의견 1/2 끝내기 
+- 성민이 의견 남은 1/2 끝내기 
 
 토: 
 - Goal 넣기
 - 클래스 확인
-- 성민이 의견 남은 1/2 끝내기
-
 
 일: 
 - Event 
 
 # Array Pictures
 
-ALUMINUM CAN
-
-BACKPACK
-<span>Photo by <a href="https://unsplash.com/@olroque?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Omar Roque</a> on <a href="https://unsplash.com/s/photos/backpack?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-BALL
-<span>Photo by <a href="https://unsplash.com/@greysonjoralemon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Greyson Joralemon</a> on <a href="https://unsplash.com/s/photos/ball?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-BICYCLE
-<span>Photo by <a href="https://unsplash.com/@robertbye?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Robert Bye</a> on <a href="https://unsplash.com/s/photos/bicycle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-BINDER
-<span>Photo by <a href="https://unsplash.com/@viktortalashuk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Viktor Talashuk</a> on <a href="https://unsplash.com/s/photos/folders?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-CANDY WRAPPER
-<span>Photo by <a href="https://unsplash.com/@punttim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Gouw</a> on <a href="https://unsplash.com/s/photos/candy-wrapper?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-CARDBOARD
-(ALREADY FOUND)
-
-CARTON
-
-CELLPHONE
-<span>Photo by <a href="https://unsplash.com/@eirikso?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eirik Solheim</a> on <a href="https://unsplash.com/s/photos/cellphone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-CHARGER
-spanPhoto by a href=httpsunsplash.com@nickdietrichutm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyTextNick Dietricha on a href=httpsunsplash.comsphotoschargerutm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyTextUnsplashaspan
-
-CHIPS
-<span>Photo by <a href="https://unsplash.com/@khlebnikovayulia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Yulia Khlebnikova</a> on <a href="https://unsplash.com/s/photos/chips-bag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-CLOTHING
-(already done)
 
 COFFEE CUP
 1) 
@@ -122,15 +88,6 @@ https://unsplash.com/photos/j5tFG39qYKw
 
 FURNITURE
 https://unsplash.com/photos/fZuleEfeA1Q
-
-GLASS BOTTLE
-https://unsplash.com/photos/GYa8M9k6Q5w
-https://unsplash.com/photos/4mdUOt035ak
-https://unsplash.com/photos/PzmU88f-b-M
-https://unsplash.com/photos/Hc6MQLgCVtc
-https://unsplash.com/photos/cOanuQQ1-5c
-https://unsplash.com/photos/Lr9237Ul5zw
-https://unsplash.com/photos/wPEjA22-yxE
 
 GLASS CUP
 https://unsplash.com/photos/sXvTI1KNzzQ
@@ -204,12 +161,6 @@ https://unsplash.com/photos/nP11TkjxJ7s
 PLASTIC BAG
 https://unsplash.com/photos/nnlRR2NF2ko
 
-PLASTIC CUP
-https://unsplash.com/photos/n2jBqgOQ5bM
-
-PLASTIC DRINK BOTTLE
-https://unsplash.com/photos/JVSHDB5p4gE 이거 맞나..?
-
 PLASTIC JUG
 
 PLASTIC LIQUID BOTTLE
@@ -234,9 +185,6 @@ https://unsplash.com/photos/Np_nvRuhpUo
 
 SILVERWARE
 https://unsplash.com/photos/vZZfVCUOKfw
-
-STEEL CAN
-https://unsplash.com/photos/aBYhjZVfNfU
 
 STRAW
 https://unsplash.com/photos/fF8F-ak1F6M

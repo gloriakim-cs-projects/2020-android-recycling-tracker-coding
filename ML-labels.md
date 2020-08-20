@@ -15,8 +15,10 @@ ANIMAL WASTE
 - <span>Photo by <a href="https://unsplash.com/@lexyism?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">alexandra lammerink</a> on <a href="https://unsplash.com/s/photos/dog-restroom?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ANTIFREEZE
+- https://unsplash.com/photos/m-cTm7EWlGI
 
-ASEPTIC CARTON // 네모난 우유곽
+ASEPTIC CARTON // 네모난 우유곽 / 무균의 우유곽인듯?
+- https://unsplash.com/photos/S7mPGHWVtfU
 
 BACKPACK
 - <span>Photo by <a href="https://unsplash.com/@olroque?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Omar Roque</a> on <a href="https://unsplash.com/s/photos/backpack?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -53,8 +55,10 @@ BATTERY (DISPOSABLE)
 BATTERY (RECHARGEABLE)
 
 BED FRAME (METAL)
+https://pixabay.com/photos/apartment-bed-bedroom-big-bright-2941185/
 
 BED FRAME (WOODEN)
+https://unsplash.com/photos/h_xf5vHZmRM
 
 BEVERAGE BOTTLE (PLASTIC)
 - <span>Photo by <a href="https://unsplash.com/@amandajudd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Amanda Shepherd</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -62,7 +66,8 @@ BEVERAGE BOTTLE (PLASTIC)
 BEVERAGE BOTTLE (GLASS)
 - <span>Photo by <a href="https://unsplash.com/@bayleigholson_?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Bayleigh Olson</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-BEVERAGE CAN (METAL)
+BEVERAGE CAN (ALUMINUM) // 이거 CAN (ALUMINUM)이랑 같은뎅?
+https://pixabay.com/photos/beverage-cans-tops-aluminum-metal-1058702/
 
 BICYCLE
 - <span>Photo by <a href="https://unsplash.com/@robertbye?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Robert Bye</a> on <a href="https://unsplash.com/s/photos/bicycle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -139,9 +144,12 @@ CANDY
 CANDY WRAPPERS
 - <span>Photo by <a href="https://unsplash.com/@punttim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Gouw</a> on <a href="https://unsplash.com/s/photos/candy-wrappers?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-CARTON // 이거 SOYMILK 통임.
+CARTON // 종이갑 https://unsplash.com/photos/nXhND4y3riM 이런거? 겹치는 것 같은데 확인하자
+골판지는 이거: https://pixabay.com/photos/paper-pleated-cardboard-carton-3726338/
+MILK CARTON은 https://pixabay.com/photos/milk-soya-glass-carton-blue-drink-4452655/
 
 CAT TOWER
+- https://pixabay.com/photos/cat-street-cat-gilnyangyi-animal-5366401/
 
 CD DISC
 - <span>Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/s/photos/cd-disc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -161,7 +169,7 @@ CERAMICS (BROKEN)
 CEREAL
 - <span>Photo by <a href="https://unsplash.com/@john_matychuk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">John Matychuk</a> on <a href="https://unsplash.com/s/photos/cereal?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-CEREAL BOX LINERS
+CEREAL BOX LINERS 직접 찍음
 
 CHAIR
 - <span>Photo by <a href="https://unsplash.com/@jphotomedia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Juan Burgos</a> on <a href="https://unsplash.com/s/photos/chair?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -205,7 +213,7 @@ COFFEE GROUNDS & FILTERS
 COFFEE MACHINE
 - <span>Photo by <a href="https://unsplash.com/@andrewwelch3?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">andrew welch</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-COLD PACK
+COLD PACK 직접 찍음
 
 COMPUTER PERIPHERALS
 - <span>Photo by <a href="https://unsplash.com/@cgower?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christopher Gower</a> on <a href="https://unsplash.com/s/photos/computer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -253,7 +261,7 @@ CUP LID (PLASTIC)
 
 CUTLERY (COMPOSTABLE PLASTIC)
 
-CUTLERY (PLASTIC)
+CUTLERY (PLASTIC) 직접 찍음
 
 CUTLERY (WOOD)
 - <span>Photo by <a href="https://unsplash.com/@mariailves?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Maria Ilves</a> on <a href="https://unsplash.com/s/photos/cutlery-plastic?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -267,14 +275,19 @@ DESK
 DESKTOP COMPUTER
 - <span>Photo by <a href="https://unsplash.com/@sorasagano?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sora Sagano</a> on <a href="https://unsplash.com/s/photos/desktop?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-DETERGENT BOTTLE (PLASTIC)
+LAUNDRY DETERGENT BOTTLE (PLASTIC)
+- https://pixabay.com/photos/bottles-jugs-liquid-detergent-1453997/
 
-DISPOSABLE MOP SHEET
-
+DISPOSABLE MOP SHEET 
+- https://pixabay.com/photos/mop-bucket-chores-housework-clean-2736400/ 이건 disposable이 아닌뎅 ㅜㅜ
 
 DOG FOOD BAG
 
 DOG KENNEL
+- https://unsplash.com/photos/tHerKKyRFhc
+- https://unsplash.com/photos/8IpLoxz_Wqk
+- https://unsplash.com/photos/XoOXuRDIBPg
+- https://unsplash.com/photos/IPheOySCW7A
 
 DRYER LINT // 드라이어 먼지
 

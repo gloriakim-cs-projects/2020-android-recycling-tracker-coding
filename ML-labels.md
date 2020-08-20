@@ -166,6 +166,9 @@ CHAIR
 CHARGER
 - <span>Photo by <a href="https://unsplash.com/@steve_j?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Steve Johnson</a> on <a href="https://unsplash.com/s/photos/charger?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
+CHEESE
+- <span>Photo by <a href="https://unsplash.com/@orlovdesignco?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Rebecca Orlov | Orlov Design Co</a> on <a href="https://unsplash.com/s/photos/cheese?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
 CHICKEN (INCLUDING BONES)
 - <span>Photo by <a href="https://unsplash.com/@tjsocoz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Bish</a> on <a href="https://unsplash.com/s/photos/chicken?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
@@ -232,13 +235,16 @@ CUP (CERAMIC)
 - <span>Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/cup-(ceramic)?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 CUP (GLASS)
-<span>Photo by <a href="https://unsplash.com/@plhnk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Paul Hanaoka</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- <span>Photo by <a href="https://unsplash.com/@plhnk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Paul Hanaoka</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 CUP (PAPER) // COFFEE CUP은 비닐코팅이라서 노노라는 걸 더할 것.
+- <span>Photo by <a href="https://unsplash.com/@brandomakesbranding?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brando Makes Branding</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 CUP (PLASTIC)
+- <span>Photo by <a href="https://unsplash.com/@sagar_fotography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sagar Chaudhray</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 CUP (STYROFOAM)
+- <span>Photo by <a href="https://unsplash.com/@calebdlucas?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Caleb Lucas</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 CUP LID (PLASTIC)
 
@@ -247,43 +253,51 @@ CUTLERY (COMPOSTABLE PLASTIC)
 CUTLERY (PLASTIC)
 
 CUTLERY (WOOD)
+- <span>Photo by <a href="https://unsplash.com/@mariailves?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Maria Ilves</a> on <a href="https://unsplash.com/s/photos/cutlery-plastic?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-DAIRY PRODUCTS, CHEESE & YOGURT
+DAIRY PRODUCTS
+- <span>Photo by <a href="https://unsplash.com/@dcocciardi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Delfina Cocciardi</a> on <a href="https://unsplash.com/s/photos/yogurt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 DESK
+- <span>Photo by <a href="https://unsplash.com/@jamesm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">James McDonald</a> on <a href="https://unsplash.com/s/photos/desk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 DESKTOP COMPUTER
-
-DESKTOP COMPUTER
+- <span>Photo by <a href="https://unsplash.com/@sorasagano?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sora Sagano</a> on <a href="https://unsplash.com/s/photos/desktop?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 DETERGENT BOTTLE (PLASTIC)
 
 DISPOSABLE MOP SHEET
 
+
 DOG FOOD BAG
 
 DOG KENNEL
 
-DRYER LINT
+DRYER LINT // 드라이어 먼지
 
-DRYER SHEET
+DRYER SHEET 
 
 DVD PLAYER
 
 E-READER
 
 EARPHONES
+- <span>Photo by <a href="https://unsplash.com/@freestocks?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">freestocks</a> on <a href="https://unsplash.com/s/photos/earphones?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 EGG CARTON (PAPER)
 - <span>Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hello I'm Nik 🎞</a> on <a href="https://unsplash.com/s/photos/tray?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 EGG CARTON (STYROFOAM)
+- <span>Photo by <a href="https://unsplash.com/@ntaylor13?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">natasha t</a> on <a href="https://unsplash.com/s/photos/egg-carton?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 EGG SHELLS
+- <span>Photo by <a href="https://unsplash.com/@carolineattwood?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Caroline Attwood</a> on <a href="https://unsplash.com/s/photos/egg-shells?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 EGGS
+- <span>Photo by <a href="https://unsplash.com/@rebekahhowell00?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Rebekah Howell</a> on <a href="https://unsplash.com/s/photos/eggs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ELECTRONICS
+- <span>Photo by <a href="https://unsplash.com/@jelle_van_leest?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jelle van Leest</a> on <a href="https://unsplash.com/s/photos/headphone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ENVELOPE
 
@@ -645,6 +659,9 @@ WRAPPER
 WRAPPING PAPER (FOIL) --> aluminum foil이랑 같지 않나?
 
 WRAPPING PAPER (PAPER ONLY)
+
+YOGURT 
+- <span>Photo by <a href="https://unsplash.com/@saracervera?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sara Cervera</a> on <a href="https://unsplash.com/s/photos/yogurt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ## FINAL LABELS (WITHOUT SPACE)
 

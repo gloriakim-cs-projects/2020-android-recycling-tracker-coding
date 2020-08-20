@@ -413,12 +413,14 @@ IRONING BOARD
 - <span>Photo by <a href="https://unsplash.com/@mroz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Filip Mroz</a> on <a href="https://unsplash.com/s/photos/cleaning?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 JAR (CERAMIC)
+- https://unsplash.com/photos/a0rE64YJDA4
+- https://unsplash.com/photos/2LdhYVhXaVI
 
 JAR (GLASS)
+- https://unsplash.com/photos/wPEjA22-yxE
 
 JAR (PLASTIC)
-
-JUICE BOX
+- https://unsplash.com/photos/2S29Cr5ZOBI
 
 JUICE BOX
 
@@ -427,10 +429,13 @@ JUICE OR DRINKING POUCH
 KEURIG CUPS
 
 KITCHEN KNIVES
+https://unsplash.com/photos/CTtnaHiLvIA
 
 LAMP
+(이미 잇움)
 
 LAPTOP
+(이미 잇움)
 
 LIGHT BULB (NOT CFL)
 - <span>Photo by <a href="https://unsplash.com/@wilhelmgunkel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Wilhelm Gunkel</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -438,52 +443,73 @@ LIGHT BULB (NOT CFL)
 LINER (PLASTIC)
 
 MAGAZINE
+- https://unsplash.com/photos/YwVjYdWhY1k
 
 MAKE-UP SPONGE
 
 MATTRESS
+- https://unsplash.com/photos/lTrbjFd8Iwo
 
 MATTRESS COVERS
+- https://unsplash.com/photos/porAZtNVkyk
 
 MEAT (INCLUDING BONES)
+- https://unsplash.com/photos/UeYkqQh4PoI
 
 MEDICAL WASTE
+- https://unsplash.com/photos/pgfWIStWIfs
 
 MEDICINE (PRESCRIPTION & OVER-THE-COUNTER)
+- https://unsplash.com/photos/kfJkpeI6Lgc
 
 MERCURY THERMOMETER
 
 METAL CAPS FROM GLASS JARS
+- https://unsplash.com/photos/fIs9p9eTksw
 
 MICROWAVE
+- https://unsplash.com/photos/WtxE9xb0vQU
 
 MILK JUG (PLASTIC)
 
 MIRROR
+- https://unsplash.com/photos/ZUS1xCxoQCA
 
 MONITOR
+- https://unsplash.com/photos/m2zuB8DqwyM
 
 NAIL CLIPPINGS
 
 NAIL POLISH
+- https://unsplash.com/photos/MUVKrHNMvoQ (자르기)
 
 NEWSPAPER
+- https://unsplash.com/photos/Mwuod2cm8g4
 
 NUTS & SHELLS
+- https://unsplash.com/photos/eo7J_G7q36k
 
 PACKAGING NUT (STYROFOAM)
 
 PAPER (LAMINATED)
 
 PAPER (NON-LAMINATED)
+- https://unsplash.com/photos/aJTiW00qqtI
 
 PAPER (SHREDDED)
 
 PAPER CLIPS
+- https://unsplash.com/photos/4DPWnBrjIPg
 
-PAPER EGG CARTON
+ICE CREAM CARTON (PAPER)
+- https://unsplash.com/photos/lCmFhOQ4PzI (너무 조그만데?)
+https://unsplash.com/photos/qKM-j6k_ggY
+https://unsplash.com/photos/6ndTArjdC94
+https://unsplash.com/photos/bgUbSeY6KGo
+https://unsplash.com/photos/oieodYZhMEQ
 
-PAPER ICE CREAM CARTON
+ICE CREAM CARTON (STYROFOAM)
+- https://unsplash.com/photos/Nf42oUBokQs
 
 PAPER LABEL OFF GLASS JAR
 
@@ -510,9 +536,13 @@ PIE PLATE (ALUMINUM)
 PILL BOTTLE (EMPTY)
 
 PILLOW
-https://unsplash.com/photos/_LnqNEEeGUo
+- https://unsplash.com/photos/_LnqNEEeGUo
 
-PILLOW
+PITCHER (GLASS)
+
+PITCHER (CERAMIC)
+
+PITCHER (PLASTIC)
 
 PIZZA
 

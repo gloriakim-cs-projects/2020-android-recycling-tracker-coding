@@ -59,13 +59,7 @@ https://unsplash.com/photos/RMuPNY8lqAM
 3)
 https://unsplash.com/photos/T0MaU-xNMNQ
 
-COFFEE MACHINE
-https://unsplash.com/photos/1pZbNwlGzNY
-
 COMB
-
-COMPUTER
-(already done)
 
 DETERGENT
 
@@ -89,15 +83,7 @@ https://unsplash.com/photos/j5tFG39qYKw
 FURNITURE
 https://unsplash.com/photos/fZuleEfeA1Q
 
-GLASS CUP
-https://unsplash.com/photos/sXvTI1KNzzQ
-https://unsplash.com/photos/RGwhPC5tLMQ
-https://unsplash.com/photos/GSryXzIsrhA
-https://unsplash.com/photos/rnkaQvfo1ps
-https://unsplash.com/photos/_2ApJ71gWUk
-https://unsplash.com/photos/7b1W1mcwekw
 (beaker) https://unsplash.com/photos/lQGJCMY5qcM
-https://unsplash.com/photos/R0fGMKUTqps
 
 
 GLASS JAR

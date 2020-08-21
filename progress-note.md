@@ -21,6 +21,7 @@
 - [ ] Events (REMOVED)
 - [ ] Array Descriptions
 - [ ] Array Pictures
+- [ ] facepixelizer써서 blur
 
 ### Schedule
 * 아파서 하루씩 미룸 ㅜ

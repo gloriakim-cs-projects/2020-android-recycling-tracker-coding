@@ -104,7 +104,7 @@ BOTTLE (PLASTIC)
 BOTTLE CAP (PLASTIC)
 - <span>Photo by <a href="https://unsplash.com/@jon_chng?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jonathan Chng</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-BOX (CARDBOARD)
+BOX (CARDBOARD) --> 이거 그냥 옛날 사진으로 교체.
 - <span>Photo by <a href="https://unsplash.com/@thejmoore?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jon Moore</a> on <a href="https://unsplash.com/s/photos/box-cardboard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 BREAD

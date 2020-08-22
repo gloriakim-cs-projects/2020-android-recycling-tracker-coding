@@ -11,7 +11,7 @@ AEROSOL CAN (EMPTY) // 스프레이 캔
 AEROSOL CAN (FULL OR PARTIALLY FULL)
 - <span>Photo by <a href="https://unsplash.com/@timmossholder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Mossholder</a> on <a href="https://unsplash.com/s/photos/aerosol-can?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-ANIMAL WASTE 
+ANIMAL BEDDING 
 - <span>Photo by <a href="https://unsplash.com/@lexyism?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">alexandra lammerink</a> on <a href="https://unsplash.com/s/photos/dog-restroom?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ANTIFREEZE

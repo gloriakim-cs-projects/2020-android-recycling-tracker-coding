@@ -17,8 +17,7 @@ ANIMAL WASTE
 ANTIFREEZE
 - <span>Photo by <a href="https://unsplash.com/@robineero?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Robert Laursoo</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-ASEPTIC CARTON // 네모난 우유곽 / 무균의 우유곽인듯?
-- https://unsplash.com/photos/S7mPGHWVtfU
+ASEPTIC CARTON // 직접 찍음
 
 BACKPACK
 - <span>Photo by <a href="https://unsplash.com/@olroque?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Omar Roque</a> on <a href="https://unsplash.com/s/photos/backpack?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -145,7 +144,7 @@ CARDBOARD
 - Image by <a href="https://pixabay.com/users/JustynaKoniecz-3703738/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2111107">JustynaKoniecz</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2111107">Pixabay</a>
 
 CAT TOWER
-- https://pixabay.com/photos/cat-street-cat-gilnyangyi-animal-5366401/
+- Image by <a href="https://pixabay.com/users/HeungSoon-4523762/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5366401">HeungSoon</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5366401">Pixabay</a>
 
 CD DISC
 - <span>Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/s/photos/cd-disc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -279,17 +278,15 @@ DISPOSABLE MOP SHEET
 - https://pixabay.com/photos/mop-bucket-chores-housework-clean-2736400/ 이건 disposable이 아닌뎅 ㅜㅜ
 - Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2736400">Steve Buissinne</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2736400">Pixabay</a>
 
-DOG FOOD BAG
+DOG FOOD BAG 직접 
 
 DOG KENNEL
-- https://unsplash.com/photos/tHerKKyRFhc
-- https://unsplash.com/photos/8IpLoxz_Wqk
-- https://unsplash.com/photos/XoOXuRDIBPg
-- https://unsplash.com/photos/IPheOySCW7A
+- <span>Photo by <a href="https://unsplash.com/@mysa21?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mysaell Armendariz</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+혹시 별로면 이거: https://unsplash.com/photos/tHerKKyRFhc
 
-DRYER LINT // 드라이어 먼지
+DRYER LINT 직접 찍음
 
-DRYER SHEET 
+DRYER SHEET 직접 찍음
 
 DUMBELL
 - <span>Photo by <a href="https://unsplash.com/@c_reel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Cyril Saulnier</a> on <a href="https://unsplash.com/s/photos/exercise-equipment?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -338,12 +335,12 @@ RACKET
 SHUTTLECOCK
 - Image by <a href="https://pixabay.com/users/kisuk98-5517851/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2362644">기석 김</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2362644">Pixabay</a>
 
-FABRIC SOFTENER
+FABRIC SOFTENER 직접 찍음
 
 FACIAL TISSUES
 - <span>Photo by <a href="https://unsplash.com/@raphiella?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Raphiell Alfaridzy</a> on <a href="https://unsplash.com/s/photos/facial-tissues?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-FEMININE HYGIENE PRODUCTS
+FEMININE HYGIENE PRODUCTS 직접 찍음
 
 FIGURINES
 - <span>Photo by <a href="https://unsplash.com/@majortomagency?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Major Tom Agency</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -372,12 +369,12 @@ FLUORESCENT BULB (CFL)
 FLYERS
 - <span>Photo by <a href="https://unsplash.com/@shnipelson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jana Shnipelson</a> on <a href="https://unsplash.com/s/photos/flyers?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-FOAM (POLYETHYLENE)
+**FOAM (POLYETHYLENE)** 못찾음 ㅜㅜㅜ
 
 FOAM (POLYSTYRENE)
 - Image by <a href="https://pixabay.com/users/JensRS-1171284/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=911001">Jens Schlömer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=911001">Pixabay</a>
 
-FOAM BED PAD // 침대 매트리스 위에 까는 거.
+**FOAM BED PAD // 침대 매트리스 위에 까는 거.**  못찾음 ㅜㅜㅜ
 
 FOIL (ALUMINUM)
 - <span>Photo by <a href="https://unsplash.com/@patrickpankalla?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Patrick Pankalla</a> on <a href="https://unsplash.com/s/photos/foil-aluminum?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -448,11 +445,11 @@ JAR (GLASS)
 JAR (PLASTIC)
 - Image by <a href="https://pixabay.com/users/monicore-1499084/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2482278">monicore</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2482278">Pixabay</a>
 
-JUICE BOX
+JUICE BOX 직접 찍음
 
-JUICE OR DRINKING POUCH
+JUICE OR DRINKING POUCH 직접 찍음
 
-KEURIG CUPS
+**KEURIG CUPS** 못찾음 ㅜㅜ
 
 KITCHEN KNIVES
 - <span>Photo by <a href="https://unsplash.com/@moino007?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">DDP</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -499,7 +496,7 @@ MICROWAVE
 MILK CARTON
 - Image by <a href="https://pixabay.com/users/mac231-5473271/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4452655">mac231</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4452655">Pixabay</a>
 
-MILK JUG (PLASTIC)
+MILK JUG (PLASTIC) 직접 찍음
 
 MIRROR
 - <span>Photo by <a href="https://unsplash.com/@by_syeoni?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Suhyeon Choi</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -519,7 +516,7 @@ NEWSPAPER
 NUTS & SHELLS
 - <span>Photo by <a href="https://unsplash.com/@emilianovittoriosi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Emiliano Vittoriosi</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-PACKAGING NUT (STYROFOAM)
+**PACKAGING NUT (STYROFOAM)** 못찾음 ㅜㅜ
 
 PAPER (LAMINATED)
 - <span>Photo by <a href="https://unsplash.com/@inkyhills?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Callum Hill</a> on <a href="https://unsplash.com/s/photos/laminate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -545,11 +542,11 @@ ICE CREAM CARTON (PLASTIC)
 PAPER NAPKINS
 - <span>Photo by <a href="https://unsplash.com/@thirteeeeeeen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thirteen .J</a> on <a href="https://unsplash.com/s/photos/paper-napkins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-PAPER SHREDDER
+PAPER SHREDDER 직접 찍음
 
-PAPER TOWEL ROLL
+**PAPER TOWEL ROLL** 이거 나중에 찍기.
 
-PAPER TOWEL
+PAPER TOWEL 직접 찍음
 
 PARCHMENT PAPER
 - <span>Photo by <a href="https://unsplash.com/@kiboka?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nadya Spetnitskaya</a> on <a href="https://unsplash.com/s/photos/parchment-paper?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -579,7 +576,7 @@ PITCHER (GLASS)
 - <span>Photo by <a href="https://unsplash.com/@juliazolotova?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Julia Zolotova</a> on <a href="https://unsplash.com/s/photos/pitcher?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 PITCHER (PLASTIC)
-- <span>Photo by <a href="https://unsplash.com/@juliazolotova?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Julia Zolotova</a> on <a href="https://unsplash.com/s/photos/pitcher-lemonade?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- <span>Photo by <a href="https://unsplash.com/@marya_volk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Мария Волк</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 PIZZA
 - <span>Photo by <a href="https://unsplash.com/@alanaktion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Alan Hardman</a> on <a href="https://unsplash.com/s/photos/pizza?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -587,7 +584,7 @@ PIZZA
 PIZZA BOX (EMPTY, NO FOOD RESIDUE)
 - Image by <a href="https://pixabay.com/users/Hans-2/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=358029">Hans Braxmeier</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=358029">Pixabay</a>
 
-PIZZA BOX (GREASY) (이미 있음)
+PIZZA BOX (GREASY) 넣음
 
 PLANT POTS & TRAYS (PLASTIC)
 - <span>Photo by <a href="https://unsplash.com/@bechbox?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mikkel Bech</a> on <a href="https://unsplash.com/s/photos/plant-pots?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -604,7 +601,7 @@ PLATE (PAPER)
 PLATE (PLASTIC)
 - <span>Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/plate-(plastic)?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-PLATE (STYROFOAM)
+**PLATE (STYROFOAM)**
 
 POPCORN
 - <span>Photo by <a href="https://unsplash.com/@georgiavagim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Georgia Vagim</a> on <a href="https://unsplash.com/s/photos/popcorn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -646,6 +643,8 @@ RIBBONS & BOWS
 - <span>Photo by <a href="https://unsplash.com/@dietteh06?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">DiEtte Henderson</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 - 맘에 안들면 https://unsplash.com/photos/jRI4-6xgPps 혹은 https://unsplash.com/photos/kU5myKwwdKA
 
+REUSABLE BAG 옛날에 찍은 거
+
 RUG
 - <span>Photo by <a href="https://unsplash.com/@designedbylida?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lida Sahafzadeh</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
@@ -667,11 +666,9 @@ SHOES (PAIRED)
 SILVERWARE
 - <span>Photo by <a href="https://unsplash.com/@shatabdir0y?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">SHATABDI ROY</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-SINGLE-SERVE COFFEE POD & DISK // 위에 있는 KERUIG인가 그거랑 같음.
+**SINGLE-SERVE COFFEE POD & DISK // 위에 있는 KERUIG인가 그거랑 같음.**
 
-SINGLE-SERVE FOOD CONTAINER (PLASTIC) // 이거 그거잖아. TO GO BOX. 그리고 이미 찍음.
-
-SIX PACK PLASTIC RINGS
+**SIX PACK PLASTIC RINGS**
 
 SLEEPING BAG
 - <span>Photo by <a href="https://unsplash.com/@allaperto?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Felix M. Dorn</a> on <a href="https://unsplash.com/s/photos/sleeping-bag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -694,7 +691,7 @@ STICKS & TWIGS
 STICKY NOTE
 - <span>Photo by <a href="https://unsplash.com/@inthemakingstudio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Paper Textures</a> on <a href="https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-STORAGE CONTAINER // 이거 위에 나오지 않았나..?
+STORAGE CONTAINER // 이거 위에 나오지 않았나..? 여튼 직접 찍음
 
 STRAW (METAL)
 - <span>Photo by <a href="https://unsplash.com/@kartabya?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kartabya Aryal</a> on <a href="https://unsplash.com/s/photos/straw-(metal)?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
@@ -726,12 +723,12 @@ TABLE FAN
 TABLET
 - <span>Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/tablet?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-TAKE-OUT CONTAINER (PLASTIC) / TO-GO BOX (PLASTIC) 찍음
+TAKE-OUT CONTAINER (PLASTIC) / TO-GO BOX (PLASTIC) / SINGLE-SERVE FOOD CONTAINER (PLASTIC) 직접 찍음
 
-TAKE-OUT FOOD CONTAINER (PAPER) / TO-GO BOX (PAPER)
+TAKE-OUT FOOD CONTAINER (PAPER) / TO-GO BOX (PAPER) / SINGLE-SERVE FOOD CONTAINER (PAPER)
 - <span>Photo by <a href="https://unsplash.com/@annalouisehill?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Anna Hill</a> on <a href="https://unsplash.com/s/photos/take-out-container?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-TAKE-OUT FOOD CONTAINER (STYROFOAM) / TO GO BOX (STYROFOAM)
+ 
+TAKE-OUT FOOD CONTAINER (STYROFOAM) / TO GO BOX (STYROFOAM) / SINGLE-SERVE FOOD CONTAINER (STYROFOAM)
 - <span>Photo by <a href="https://unsplash.com/@jasonw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jason Weingardt</a> on <a href="https://unsplash.com/s/photos/to-go-box?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 TEABAG
@@ -758,8 +755,6 @@ TOOTHBRUSH (PLASTIC)
 TOOTHPICKS
 - <span>Photo by <a href="https://unsplash.com/@thehkphotocompany?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">The HK Photo Company</a> on <a href="https://unsplash.com/s/photos/toothpicks?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-TOTE (PLASTIC) // storage하는 건데? 이거 위에 나온건뎅?STORAGE CONTAINER인가로 나옴. 근데 둘 다 이미지는 못찾아서 찍어야 함.
-
 TOWEL
 - <span>Photo by <a href="https://unsplash.com/@redaquamedia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Denny Müller</a> on <a href="https://unsplash.com/photos/dTNq6oYQQFY?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
@@ -768,8 +763,6 @@ TRASH CAN
 
 TROPHY
 - <span>Photo by <a href="https://unsplash.com/@fznsr_?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Fauzan Saari</a> on <a href="https://unsplash.com/s/photos/trophy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-TUBS & LIDS (PLASTIC) // 이거 위에 나온 것 같은딩? 
 
 UMBRELLA
 - <span>Photo by <a href="https://unsplash.com/@gstevens0884?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">guy stevens</a> on <a href="https://unsplash.com/s/photos/umbrella?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

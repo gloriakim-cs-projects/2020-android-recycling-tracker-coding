@@ -41,9 +41,10 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Inspiring App Design2](https://kedarjoyner.com/werecycle-mobile-app)
 
 ### Photo
+
+Please see the file named `ML-labels.md` for detailed description.
+
 - **Main Landscape:** <span>Photo by <a href="https://unsplash.com/@kalenemsley?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kalen Emsley</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-- **Plastics:** <span>Photo by <a href="https://unsplash.com/@exportersindia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">tanvi sharma</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-- **Papers:** <span>Photo by <a href="https://unsplash.com/@hubiita?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Romina BM</a> on <a href="https://unsplash.com/s/photos/paper-crumpled?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ### Coding
 - [Nativate Screens](https://stackoverflow.com/questions/44004451/navigator-operation-requested-with-a-context-that-does-not-include-a-navigator)
@@ -67,6 +68,11 @@ The app is downloadable at [Google Play Store (will be done)](https://play.googl
 - [Camera](https://pub.dev/packages/camera/example) --> [Gallery_Saver](https://pub.dev/packages/gallery_saver)
 - [TFLite Implementation](https://www.youtube.com/watch?v=-5kUv47xKy0&t=573s)
 
+### TF Model
+https://teachablemachine.withgoogle.com/
+
+### Image Blur
+https://www.facepixelizer.com/
 
 ## Author
 

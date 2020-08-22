@@ -67,6 +67,7 @@ Please see the file named `ML-labels.md` for detailed description.
 - [TFLite](https://pub.dev/packages/tflite)
 - [Camera](https://pub.dev/packages/camera/example) --> [Gallery_Saver](https://pub.dev/packages/gallery_saver)
 - [TFLite Implementation](https://www.youtube.com/watch?v=-5kUv47xKy0&t=573s)
+- [Search Bar](https://flutter-examples.com/apply-search-bar-filter-on-listview-in-flutter/)
 
 ### TF Model
 https://teachablemachine.withgoogle.com/

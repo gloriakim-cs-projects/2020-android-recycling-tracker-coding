@@ -52,7 +52,8 @@ String instNote =
 List<Recyclable> recyclable = [
   Recyclable('AEROSOL CAN', '(EMPTY)', instRecyclable, '', stringRecycle,
       stringNonDonate),
-  Recyclable('AEROSOL CAN', '(FULL OR PARTIALLY FULL)', '', '', '', ''),
+  Recyclable('AEROSOL CAN', '(FULL OR PARTIALLY FULL)',
+      instHouseholdHazardWaste, '', stringNonRecycle, stringNonDonate),
   Recyclable('ANIMAL BEDDING', '', '', '', '', ''),
   Recyclable('ANTIFREEZE', '', '', '', '', ''),
   Recyclable('ASEPTIC CARTON', '', '', '', '', ''),
@@ -1071,6 +1072,20 @@ class SearchPage extends StatefulWidget {
 }
 
 class _SearchPageState extends State<SearchPage> {
+  //for search bar's text edit
+  TextEditingController _textController = TextEditingController();
+
+  // item이 바뀔 때마다 setState 해줌
+  onItemChanged(String value) {
+    setState(() {
+      recyclable = recyclable
+          .where((string) =>
+              string.title.toLowerCase().contains(value.toLowerCase()) ||
+              string.description.toLowerCase().contains(value.toLowerCase()))
+          .toList();
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Theme(
@@ -1078,13 +1093,46 @@ class _SearchPageState extends State<SearchPage> {
       child: DefaultTabController(
         length: 2,
         child: Scaffold(
-          appBar: MyAppBar.getAppBar(context, Colors.black54, 'SEARCH'),
+          appBar: AppBar(
+            iconTheme: new IconThemeData(color: Colors.black54),
+            title: TextField(
+              style: TextStyle(color: Colors.black),
+              controller: _textController,
+              decoration: InputDecoration(
+                focusedBorder: OutlineInputBorder(
+                  borderSide: BorderSide(color: Colors.black54, width: 3.0),
+                ),
+                enabledBorder: OutlineInputBorder(
+                  borderSide: BorderSide(color: Colors.black54, width: 3.0),
+                ),
+                prefixIcon: new Icon(Icons.search, color: Colors.black54),
+                contentPadding: EdgeInsets.all(10.0),
+                hintText: 'Search Here',
+              ),
+              onChanged: onItemChanged,
+            ),
+            actions: <Widget>[
+              IconButton(
+                icon: Icon(
+                  Icons.widgets,
+                  color: Colors.black54,
+                ),
+                tooltip: 'Home Page',
+                //show side pages
+                onPressed: () => Navigator.of(context).pushNamed('/HOME'),
+              ),
+            ],
+            backgroundColor: Colors.transparent,
+            elevation: 0.0,
+          ),
           //show background behind the app bar
           extendBodyBehindAppBar: true,
           body: Padding(
             padding: const EdgeInsets.fromLTRB(0, 30, 0, 0),
             child: SafeArea(
-              child: MyListView(),
+              child: Expanded(
+                child: MyListView(),
+              ),
             ),
           ),
           drawer: MyDrawer(),
@@ -1098,6 +1146,7 @@ class _SearchPageState extends State<SearchPage> {
 ListView MyListView() {
   String imagename;
   return ListView.builder(
+//    drawer: (previousScreen == 'CAMERA') ? MyDrawer() : null,
     itemCount: recyclable.length,
     itemBuilder: (context, index) {
       //괄호 있는 애들이랑 없는 애들 따로 imagename을 만듬

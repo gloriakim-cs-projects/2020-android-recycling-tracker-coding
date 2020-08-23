@@ -16,12 +16,12 @@
      - ![image](https://user-images.githubusercontent.com/68700599/90002144-e3c7a980-dc57-11ea-9189-6c7f356a478a.png)
 - [X] Search (Come back to add 'Collected pictures' & possibly YouTube demonstrations)
      - [X] Search Details
-     - [ ] Search Bar
+     - [X] Search Bar
 - [ ] Goals (REMOVED)
 - [ ] Events (REMOVED)
 - [ ] Array Descriptions
-- [ ] Array Pictures
-- [ ] facepixelizer써서 blur
+- [X] Array Pictures
+- [X] facepixelizer써서 blur
 
 ### Schedule
 * 아파서 이틀ㅜㅜ씩 미룸ㅜㅜㅜ

@@ -1099,12 +1099,6 @@ class _SearchPageState extends State<SearchPage> {
               style: TextStyle(color: Colors.black),
               controller: _textController,
               decoration: InputDecoration(
-                focusedBorder: OutlineInputBorder(
-                  borderSide: BorderSide(color: Colors.black54, width: 3.0),
-                ),
-                enabledBorder: OutlineInputBorder(
-                  borderSide: BorderSide(color: Colors.black54, width: 3.0),
-                ),
                 prefixIcon: new Icon(Icons.search, color: Colors.black54),
                 contentPadding: EdgeInsets.all(10.0),
                 hintText: 'Search Here',

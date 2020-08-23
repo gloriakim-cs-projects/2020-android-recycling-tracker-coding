@@ -26,23 +26,18 @@
 ### Schedule
 * 아파서 이틀ㅜㅜ씩 미룸ㅜㅜㅜ
 금: 
-- Search option 끝내기
-- Android emulator 고치기
+- [X] Search option 끝내기
+- [X] Android emulator 고치기
 - [X] array label 다시 고치기
 - [X] array picture을 다 맞게 저장하기
 - array description
-- 성민이 descriptoin 끝내기 + 뭔가 쓰는 거 긴 거 하나 끝내기 + 데드라인 확인
 
 토:
-- 클래스 확인 (바꾸면 돈 더 내야함 ㅜ)
-- search option 완벽히 하기
 - array description 완벽히 하기
 - locator 전부 배끼기
-- 성민이 의견 1/2 끝내기
 
 일: 
 - Stat 끝내기
-- 성민이 의견 남은 1/2 끝내기 
 
 월 ㅜㅜ 걍 포기하자 ㅜㅜㅜ: 
 - Goal, Event 넣기

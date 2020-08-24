@@ -514,6 +514,14 @@ NUTS & SHELLS
 - <span>Photo by <a href="https://unsplash.com/@emilianovittoriosi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Emiliano Vittoriosi</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 **PACKAGING NUT (STYROFOAM)** 못찾음 ㅜㅜ
+PAINT (LATEX)
+- Image by <a href="https://pixabay.com/users/cwizner-3652971/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1936787">cwizner</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1936787">Pixabay</a>
+
+PAINT (OIL)
+- Image by <a href="https://pixabay.com/users/freephotocc-2275370/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1478831">Free Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1478831">Pixabay</a>
+
+PALLETS 
+- <span>Photo by <a href="https://unsplash.com/@auntneecey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Denise Johnson</a> on <a href="https://unsplash.com/s/photos/pallette?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 PAPER (LAMINATED)
 - <span>Photo by <a href="https://unsplash.com/@inkyhills?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Callum Hill</a> on <a href="https://unsplash.com/s/photos/laminate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

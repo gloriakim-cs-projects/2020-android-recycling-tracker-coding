@@ -72,6 +72,14 @@ https://earth911.com/recycling-guide/how-to-recycle-glass-bottles-jars/#:~:text=
 BOTTLE (PLASTIC)
 BOTTLE CAP (PLASTIC)
 BOX (CARDBOARD)
+0. instruction: Use a knife or scissors to cut any tape used to seal the top and/or bottom of the box, then collapse the box. You don’t need to remove the tape, but most recyclers prefer that boxes are flattened to save space.
+
+For boxes that contained huge items, you may need to fold or cut the flattened box in half for it to fit in your recycling cart. Some programs also allow you to set large boxes next to the cart, but don’t put them out if it’s raining. Wet cardboard doesn’t have a recycling market.
+
+For boxes that are food-soiled (such as pizza boxes), cut out any oil stains before recycling. Food-soiled paper doesn’t have a recycling market.
+https://earth911.com/recycling-guide/how-to-recycle-cardboard/
+1. Over half of the cardboard collected is used to make new cardboard boxes, and additional cardboard can be downcycled into paperboard (used for cereal boxes) or chipboard (used for shoeboxes)
+
 BREAD
 BRUSH
 BUBBLE WRAP

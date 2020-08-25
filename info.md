@@ -1,7 +1,12 @@
-# Why it's okay to recycle / Recycling Process
-This document serves as a back-up for reasons why a certain material should be recycled or not be recycled.
+# Info
+
+This document serves to answer the following questions:
+
+1. recycling preparation
+2. recycling process
+3. why are chip bags (not) recyclable?
  
-## List (May be DIFFERENT with the actual list, so DOUBLE CHECK!!)
+## List 
 
 - AEROSOL CAN (EMPTY) // 스프레이 캔
 1. Aerosol cans are made of highly recyclable steel, similar to a can of Campbell's soup with one important difference. Aerosol cans' contents are under pressure. That's where recycling them gets tricky. 

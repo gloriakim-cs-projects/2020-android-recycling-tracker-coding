@@ -424,6 +424,9 @@ HANGER (PLASTIC)
 HANGER (WOOD)
 - <span>Photo by <a href="https://unsplash.com/@lishakov?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andrej Lišakov</a> on <a href="https://unsplash.com/s/photos/hanger-(metal).?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
+HOME HEALTHCARE WASTE
+- Image by <a href="https://pixabay.com/users/Hans-2/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=62643">Hans Braxmeier</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=62643">Pixabay</a>
+
 HOUSEHOLD CLEANER
 - <span>Photo by <a href="https://unsplash.com/@cchabot?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Crystal de Passillé-Chabot</a> on <a href="https://unsplash.com/s/photos/household-cleaner?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
@@ -656,6 +659,9 @@ REUSABLE BAG 옛날에 찍은 거
 RUG
 - <span>Photo by <a href="https://unsplash.com/@designedbylida?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lida Sahafzadeh</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
+SANITIZING WIPE
+- <span>Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
 SATELLITE DISH
 - <span>Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Paweł Czerwiński</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
@@ -814,8 +820,8 @@ WATER FILTER
 WAX PAPER
 - <span>Photo by <a href="https://unsplash.com/@nehadeshmukh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Neha Deshmukh</a> on <a href="https://unsplash.com/s/photos/wax-paper?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-WIPE
-https://unsplash.com/photos/lLqGziP8H48
+WHEELCHAIR
+- Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1595794">Steve Buissinne</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1595794">Pixabay</a>
 
 WRAP (PLASTIC)
 

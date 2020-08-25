@@ -33,6 +33,7 @@
 - background 너무 까만 거 고치기
 - 카메라 찍힌 후 yes or no 표시 (search도)
 - 좀 더 깔끔하게 코딩 줄이기
+- Add pop up information? https://how2recycle.info/news/2018/top-18-things-you-should-not-recycle#:~:text=Plastic%20bags%20and%20some%20plastic,not%20in%20your%20curbside%20bin!&text=But%20the%20vast%2C%20vast%20majority,along%20with%20plastic%20shopping%20bags.
 
 
 ## NEED TO BE DONE (MAIN JOBS)

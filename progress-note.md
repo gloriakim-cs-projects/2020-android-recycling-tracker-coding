@@ -9,7 +9,7 @@
 (어떻게 recycle해야 하는지)
 (어디다가 해야하는지) <- 이거 맵에다가 넣어야하나?
 
-![image](https://user-images.githubusercontent.com/68700599/91165552-6f006080-e696-11ea-8bd6-ff7cad8c9542.png)
+![image](https://user-images.githubusercontent.com/68700599/91166193-973c8f00-e697-11ea-98f0-fda6a5429980.png)
 
 수
 - redesign stat에 들어갈 것들 뭐뭐 넣을지

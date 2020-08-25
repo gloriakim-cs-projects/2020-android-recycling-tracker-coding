@@ -1,8 +1,6 @@
 # Photo Creditors
 This is the list of creditors for photos I used for each classification.
 
-## FINAL LABELS (Combined with old & new and modify a bit)
-
 AEROSOL CAN (EMPTY) // 스프레이 캔 
 - <span>Photo by <a href="https://unsplash.com/@emilianovittoriosi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Emiliano Vittoriosi</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 

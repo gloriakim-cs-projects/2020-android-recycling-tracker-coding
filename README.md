@@ -1,4 +1,4 @@
-# Recycling Tracker (2020 Version)
+# Recycling Tracker (2020 Version) - A Throughout Guide with Automatic Image Sorting
 
 **Note:** Please see [this repository](https://github.com/gloriakim-cs-projects/2019-android-recycling-tracker-completed/) to see the previous version of this app.
 

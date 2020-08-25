@@ -20,6 +20,7 @@
 금
 - redesign events
 - 덴턴 리사이클링 이메일 체크하고 리스트 업데이트!
+- stackoverflow 핀터레스트 copyright 체크!
 
 ### 맨 나중에 할 것
 - locator 배끼고, 또 거기다 아래 추가도 해야하고.

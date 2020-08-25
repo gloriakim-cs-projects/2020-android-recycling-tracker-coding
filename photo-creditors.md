@@ -204,7 +204,7 @@ COFFEE MACHINE
 COLD PACK 직접 찍음
 
 COMPUTER PERIPHERALS
-- <span>Photo by <a href="https://unsplash.com/@cgower?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christopher Gower</a> on <a href="https://unsplash.com/s/photos/computer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- <span>Photo by <a href="https://unsplash.com/@domenicoloia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Domenico Loia</a> on <a href="https://unsplash.com/s/photos/computer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 SAUCES & SYRUPS
 - <span>Photo by <a href="https://unsplash.com/@nadineprimeau?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nadine Primeau</a> on <a href="https://unsplash.com/s/photos/syrup?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

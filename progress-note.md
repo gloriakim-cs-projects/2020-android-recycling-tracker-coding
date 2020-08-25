@@ -8,6 +8,7 @@
 ('왜 recycling/not recycle 해야하는지)
 (어떻게 recycle해야 하는지)
 (어디다가 해야하는지) <- 이거 맵에다가 넣어야하나?
+![image](https://user-images.githubusercontent.com/68700599/91164098-28116b80-e694-11ea-831d-38b0125d2b44.png)
 
 수
 - redesign stat에 들어갈 것들 뭐뭐 넣을지

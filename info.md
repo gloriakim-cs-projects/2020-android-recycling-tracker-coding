@@ -4,7 +4,7 @@ This document serves to answer the following questions:
 
 0. What is an aseptic carton?
 0-1. YouTube explanation
-1. recycling preparation
+1. recycling preparation / bulk preparation
 1-1. YouTube demonstration
 2. recycling process
 3. why are chip bags (not) recyclable?
@@ -115,12 +115,31 @@ ANOTHER ONE: https://www.charbroil.com/learn/how-to-dispose-and-recycle-your-old
 
 BASKETBALL HOOP
 
-1. 
+1. To prepare your basketball hoop for curbside collection, basketball hoop needs to be disassembled. The backboard and base can be bulk trashed if they have no water and sand. If backboard and base are made of plastic #1-7, they can be recycled. The pole is scrap metal, which can be recycled if it is free of concrete.
+https://www2.montgomerycountymd.gov/DepHowDoI/material.aspx?tag=basketball-hoops&material_key=21
 
+3. Basketball hoop is made of many materials, which are difficult to separate during recycling process. Unless these materials are separated in advance, basketball hoop is not recyclable.
 
 BATTERY (DISPOSABLE)
+1. Place a piece of non-conductive clear tape over the ends to prevent any current transfer. You can also bag each battery individually instead of taping the ends.
+Store the batteries in a plastic or cardboard container that doesn’t conduct electricity in case there is a spark.
+https://www.batterysolutions.com/news/dispose-old-batteries-right-way/
+
+3. Batteries contain a number of heavy metals and toxic chemicals, which are hazarous to go through the recycling procss. 
+
+
 BATTERY (RECHARGEABLE)
+1. Remove batteries from their electronics. Dead laptops must be recycled separately from dead laptop batteries. This is not required for small electronics like cellphones or iPods, which can be accepted by most battery recyclers. Cover the terminals with non-conductive tape clear tape so that doesn't conduct electricity in case there is a spark.
+
+Rechargeable batteries of any kind should not be placed in your trash can (or dumpster). It is illegal in some states to do so because rechargeable batteries contain heavy metals that can be hazardous to the environment. 
+https://www.batterysolutions.com/news/dispose-old-batteries-right-way/
+
+3. Batteries contain a number of heavy metals and toxic chemicals, which are hazarous to go through the recycling procss. 
+
 BED FRAME
+3. Metal bed frames can be recycled as scrap metal, they can be recycled. However, wood bed frames are made of treated wood. **WOOD FURNITURE** That makes them difficult, if not impossible, to recycle. The main uses for recycled wood are compost, garden amendments like mulch or burning it for energy. The chemicals in varnishes, paints and other wood treatment products make your old furniture a bad candidate for all those applications. More and more furniture items are made with less-expensive particleboard and chipboard, but these products fall in the nonrecyclable category as well. Particleboard (which has a grainy look) and chipboard (which looks like it is made of wood chips) are made by chopping up old bits of wood and adding glue to form sheets of lumber. The glue often contains formaldehyde and other toxic chemicals. 
+https://recyclenation.com/2014/06/recycle-furniture/  
+
 BEVERAGE BOTTLE (GLASS)
 BEVERAGE BOTTLE (PLASTIC)
 BEVERAGE CAN (ALUMINUM)

@@ -249,6 +249,7 @@ BOX (CARDBOARD)
 BREAD
 BRUSH
 BUBBLE WRAP
+https://livegreen.recyclebank.com/column/because-you-asked/is-bubble-wrap-recyclable
 https://earth911.com/home-garden/is-bubble-wrap-recyclable/
 BUTANE FUEL
 CACTUS

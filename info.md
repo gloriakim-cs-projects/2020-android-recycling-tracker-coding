@@ -2,9 +2,11 @@
 
 This document serves to answer the following questions:
 
+
 0. What is an aseptic carton?
 0-1. YouTube explanation
 1. recycling preparation / bulk preparation
+--> Although __ cannot be recycled in bulk, it can be separated into pieces to recycle. (NEED TO RE-READ...)
 1-1. YouTube demonstration
 2. recycling process
 3. why are chip bags (not) recyclable?
@@ -195,11 +197,36 @@ BINDER
 https://www.scarce.org/recycling-faq-binders/ (PHOTOS ARE LISTED)
 YouTube: https://www.youtube.com/watch?v=_Re9H1_JPos
 
-BLANKET
+**BLANKET**
+
+upcycle ideas: https://www.jeffersonlanehome.com/blogs/news/11-ways-to-recycle-your-old-bedding-and-towels
+https://www.apartmenttherapy.com/how-to-recycle-your-old-towels-75474
+
 BLEACH
+
+1. Bleach should be safely disposed based on the bleach label or in the proper facility. After the proper disposal, the container can be recycled. 
+https://earth911.com/inspire/programs-initiatives/safely-dispose-cleaning-products/
+3. Bleach is considered as a hazarous material, which should not be going in the recycling facility. 
+
 BLINDS
+
+3. **copy from many copmosed bulk material stuffs**
+4. takin extra efforts to recycle:
+https://www.blinds.com/blog/how-to-recycle-blinds
+
 BOOK (HARD COVER)
+1.  You’ll need to remove the cover because it has non-paper components.
+1-1. YouTube: https://www.youtube.com/watch?v=rhcJVfgJ6Co
+2. **paper process**
+Since books are mixed paper, the first step in recycling is to separate these products from cardboard, office paper and newspaper grades. The mixed paper is then baled and sent to a mill.
+
+At the mill, there are machines called pulpers that introduce water and chemicals to break down the paper into fibers. Then, any ink and adhesive is removed and the paper fibers start bonding together. Finally, the fibers are rolled and dried, then sent off to make new products. Because mixed paper fibers are smaller than cardboard or office paper, this paper is recycled into lesser-quality paper products, such as coffee filters, egg cartons and paper towels.
+https://earth911.com/recycling-guide/how-to-recycle-books-magazines/#:~:text=Most%20curbside%20recycling%20programs%20accept,binding%2C%20unless%20you%20remove%20it.&text=Companies%20like%20Better%20World%20Books,condition%20to%20sell%20them%20online.
+3. 
+
 BOOK (SOFT COVER)
+1. For paperback books, you can recycle the book whole, including the binding. 
+
 BOOKSHELF
 BOTTLE (CERAMIC)
 BOTTLE (GLASS)
@@ -234,6 +261,10 @@ CHRISTMAS DECORATIONS
 CHRISTMAS TREE (ARTIFICIAL)
 CHRISTMAS TREE (NATURAL)
 CLOTHES
+
+3. Much of the problem comes down to what our clothes are made from. The fabrics we drape over our bodies are complex combinations of fibres, fixtures and accessories. They are made from problematic blends of natural yarns, mand-made filaments, plastics and metals.This makes them hard to separate so they can be effectively recycled. Sorting textiles into different fibres and material types by hand is labour intensive, slow and requires a skilled workforce. Also, blends are most suitable for mechanical fibre recycling, where fabrics are shredded and pulled to transform them into fibres of shorter length. Shorter fibre length produces fabrics of lower quality and strength, so the results from this kind of recycling can’t be used for clothing. 
+https://www.bbc.com/future/article/20200710-why-clothes-are-so-hard-to-recycle
+
 COFFEE GROUNDS
 COFFEE FILTERS
 COFFEE MACHINE

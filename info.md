@@ -9,7 +9,6 @@ This document serves to answer the following questions:
 2. recycling process
 3. why are chip bags (not) recyclable?
 
- 
 # List 
 
 AEROSOL CAN (EMPTY) // 스프레이 캔
@@ -30,7 +29,6 @@ AEROSOL CAN (FULL OR PARTIALLY FULL)
 (same as above)
 
 **ANIMAL BEDDING**
-
 
 ANTIFREEZE
 
@@ -71,9 +69,28 @@ https://earth911.com/recycling-guide/how-to-recycle-plastic-bags/#:~:text=Plasti
 3. Typically made of high-density polyethylene (HDPE, number 2 plastic) or low-density polyethylene (LDPE, number 4 plastic), plastic bags and other soft plastics are difficult to recycle because of their form. Plastic bags are lightweight and can easily get blown to places they don’t belong, and because they’re thin and flexible, they have a tendency to get snagged or tangled in machinery. So it's important to recycle them not in most curbside recycling bins but in collection bins in your local grocery stores.
 https://livegreen.recyclebank.com/column/because-you-asked/can-i-recycle-plastic-grocery-bags-in-the-recycling-bin
 
-BAKED GOODS
-BAKING TRAY (ALUMINUM)
-BALL
+BAKED GOODS (CAN BE USED FOR ALL FOOD ITEMS)
+
+3. While food residue gets burned away during the recycling process for plastic, glass, and metal, the same can’t be said for paper. When paper is recycled, it is mixed with water to form slurry. Oil and fat from food residue don’t mix with water; instead, they float on top of the slurry and mingle with the paper pulp. Oily pulp makes very poor quality paper and is, in effect, unusable.
+In single-stream recycling communities, all accepted materials go in the same recycling bin together. This creates the risk of grease or food residue transferring from a plastic, metal, or glass container (which is technically fine to recycle even if it has residue on it) to paper materials (which cannot be recycled if it has residue on it). It’s best to avoid any possible cross-contamination by rinsing soiled recyclables and keeping all food residues out of the bin.
+The biggest reason to keep grease and food residue out of the recycling technically isn’t a recycling issue at all! It’s a sanitary one. Food residue spoils, which can create unsafe conditions for workers in recycling facilities. Prevent mold and bacteria from growing on your recyclables by rinsing them before you put them in the bin.
+https://livegreen.recyclebank.com/column/because-you-asked/why-can-t-i-recycle-stuff-with-food-on-it
+
+BAKING TRAY (ALUMINUM) (SAME FOR ALUMINUM FOIL!)
+
+1. To recycle your aluminum foil and trays, simply give them a quick rinse after use and place them directly in your curbside recycling container. 
+https://www.dakotavalleyrecycling.org/curbside/quick-guide-how-to-recycle-aluminum-foil#:~:text=Did%20you%20know%20that%20aluminum,waste%20which%20can%20contaminate%20collection.
+
+2. Once aluminums are collected from your recycling bins, they are sent to the aluminum recyclers where the aluminums are shredded into tiny pieces. These are then heated into molten aluminum along with thousands of other cans and are formed into an ingot.
+http://www.dwswa.org/recycle-reuse-articles/2016/5/12/how-aluminum-beverage-cans-are-recycled#:~:text=Aluminum%20is%20a%20resilient%20metal,recycled%20over%20and%20over%20again.&text=The%20bales%20are%20sent%20to,are%20formed%20into%20an%20ingot.
+
+3. Aluminium can be recycled foreve because can be melted down and reformed without losing any quality, so the process can be repeated over and over again. Besides, recycling aluminium saves around 95% of the energy needed to make the metal from raw materials.
+https://alupro.org.uk/consumers/why-is-recycling-aluminium-so-important/
+
+BALL (TRASH)
+3. Most exercise balls are made of vinyl, which is not easily recycled. (More precisely, the balls are commonly made from a soft and elastic polyvinyl chloride (PVC) cover that's inflated with air. PVC contains a high volume of chlorine, and often phthalates as well. 
+https://homeguides.sfgate.com/exercise-balls-recyclable-79390.html
+
 BALLOONS
 BARBEQUE
 BARBEQUE GRILL

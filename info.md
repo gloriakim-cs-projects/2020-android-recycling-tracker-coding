@@ -140,8 +140,34 @@ BED FRAME
 3. Metal bed frames can be recycled as scrap metal, they can be recycled. However, wood bed frames are made of treated wood. **WOOD FURNITURE** That makes them difficult, if not impossible, to recycle. The main uses for recycled wood are compost, garden amendments like mulch or burning it for energy. The chemicals in varnishes, paints and other wood treatment products make your old furniture a bad candidate for all those applications. More and more furniture items are made with less-expensive particleboard and chipboard, but these products fall in the nonrecyclable category as well. Particleboard (which has a grainy look) and chipboard (which looks like it is made of wood chips) are made by chopping up old bits of wood and adding glue to form sheets of lumber. The glue often contains formaldehyde and other toxic chemicals. 
 https://recyclenation.com/2014/06/recycle-furniture/  
 
-BEVERAGE BOTTLE (GLASS)
+BEVERAGE BOTTLE (GLASS) **APPLIES TO ALL GLASS**
+1.
+Do your best to not break glass bottles, as there is no market for recycling broken glass.
+You can leave the label/foil on, but many recyclers will ask you to separate the metal caps. This is partly to ensure that all liquids are removed. Remove all wine corks.
+Don’t worry about non-liquids in the bottle, such as a lime wedge in a beer bottle or bits of cork in a wine bottle.
+Remove any non-containers from your glass recycling, such as Pyrex, glassware, windows, and mirrors. These glass products can’t be recycled with containers.
+2.
+Glass is taken from the bin and taken to a glass treatment plant, where the glass is sorted by colour and washed to remove any impurities. Then the glass is then crushed and melted, then moulded into new products such as bottles and jars. Or it may be used for alternative purposes such as brick manufacture or decorative uses. The glass is then sent back to the shops ready to be used again.
+http://www.recycling-guide.org.uk/science-glass.html
+3. Glass does not degrade through the recycling process, so it can be recycled again and again.
+http://www.recycling-guide.org.uk/science-glass.html
+
 BEVERAGE BOTTLE (PLASTIC)
+1.
+Most recycling programs ask that you rinse your bottles and jugs before recycling. The remnants often contain sugar, which will attract insects and generate odors.
+You’ll want to check with your local program whether to keep caps on the bottles, or whether caps are accepted at all. Some programs want the cap on to prevent loose caps from falling out during transportation. Others want the cap off to ensure the bottle is empty and because their recycling machinery may be damaged when trying to crush a capped bottle.
+You should be OK leaving the label on the bottle, but it’s unlikely to be recycled since it’s a low-grade quality of paper or plastic.
+https://earth911.com/recycling-guide/how-to-recycle-plastic-jugs-bottles/
+
+2. Recycling centers use optical scanners to identify the type of plastic resin, so #1 and #2 plastics are separated from each other and other materials (such as paper and glass). Bottles are then crushed (where caps are removed if you haven’t already done so) and baled to be sent to a plastic recycler.
+
+Recyclers will shred the #1 or #2 plastic into flakes, which are washed, rinsed and dried. Flakes are then melted into pellets, then transported to a manufacturer to make new plastic bottles/jugs or other products, such as lining for sleeping bags, T-shirts, carpet, or playground equipment.
+
+https://earth911.com/recycling-guide/how-to-recycle-plastic-jugs-bottles/
+
+3. When plastics are heated up, they get soft, so they can be shaped into any form. https://www.sciencefocus.com/science/why-are-some-plastics-recyclable-and-others-are-not/ As a side note, when different types of plastics are melted together, they tend to phase-separate, like oil and water, and set in these layers, so they need to be separated in advance based on their types.Also, each time plastic is recycled, additional virgin materials must be added to help improve the integrity of the material. So, even recycled plastic has new plastic material added in.
+https://www.sciencefocus.com/science/why-are-some-plastics-recyclable-and-others-are-not/
+
 BEVERAGE CAN (ALUMINUM)
 BICYCLE
 BINDER

@@ -98,7 +98,26 @@ https://balloons.online/blog/post/point-to-keep-in-mind-while-disposing-of-foil-
 BARBEQUE (refer to FOOD)
 
 BARBEQUE GRILL
+1. ***TRASH/RECYCLIN INSTRUCTION***
+If you have a gas grill, your first concern is the propane tank. Propane tanks are a hazardous waste; in some states, they are banned from landfills and many local communities have additional regulations regarding their disposal. The dealer where you obtained the gas will usually accept empty tanks for recycling. Even if they don’t, they can probably advise you of local laws and disposal options. If you are dealing with a very old grill, you might need to deliver the tank to the local fire department for safe handling.
+
+Once you have dealt with the propane tank, some communities will allow you to dispose of the rest of the grill as trash. In many places, you will only be able to recycle your grill if you break it down yourself. Many barbecues are also stealth electronics — household items containing electrical components that require special handling. Ignition wires, thermometers, electric controllers, and batteries are all e-waste that should not go in your garbage.
+
+Plastic side shelves marked with a recycling symbol and plastic wheels are recyclable if your community recycles plastics. But don’t assume these pieces can go in your curbside recycling bin. Call your local waste company to confirm where you can recycle these plastics. Most other plastic components, such as knobs and handles, are garbage. The propane hose is also currently unrecyclable.
+
+Gas valves are usually made of recyclable brass or aluminum. Metal casters, grill lids, shelves and the grill body are usually recyclable as scrap metal. This is true even if they are rusted.
+https://earth911.com/home-garden/recycling-mystery-barbecue-grill/#:~:text=Call%20your%20local%20waste%20company,you%20can%20recycle%20these%20plastics.&text=Gas%20valves%20are%20usually%20made,even%20if%20they%20are%20rusted.
+1-1. https://www.youtube.com/watch?v=SyP9NloWq5c (for money, though)
+
+ANOTHER ONE: https://www.charbroil.com/learn/how-to-dispose-and-recycle-your-old-gas-grill/ <<<- maybe include some numbering for recycling step / part?
+
+3. A short answer is because a barbeque grill is too big to go into the recycling machinary and is made of many components that are hard to separate into pieces. 
+
 BASKETBALL HOOP
+
+1. 
+
+
 BATTERY (DISPOSABLE)
 BATTERY (RECHARGEABLE)
 BED FRAME

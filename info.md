@@ -228,14 +228,28 @@ BOOK (SOFT COVER)
 1. For paperback books, you can recycle the book whole, including the binding. 
 
 BOOKSHELF
+**SAME FOR WOOD BED FRAME**
+
 BOTTLE (CERAMIC)
+**APPLIES TO ALL CERAMICS**
+3. According to Waste Management, the presence of ceramics like coffee mugs and plates in a batch of your typical, curbside-recyclable glass will weaken the recycled product, which is why ceramics aren’t usually accepted. 
+
+2. 였나? When recycled, ceramics are crushed to be used for drainage systems and rock base for driveways. They can also be broken and then spun to smooth the edges for use as gravel. Search online to see if you have a recycling yard near by — if its accepted materials includes brick or cement, then you might be in luck! Give them a call to see if they accept ceramics.
+
+https://livegreen.recyclebank.com/column/because-you-asked/what-should-i-do-with-my-chipped-dishes-and-bowls
+
 BOTTLE (GLASS)
+글래스가 힛 듀레블이면 노노임. (머그처럼). 
+
 BOTTLE (PLASTIC)
 BOTTLE CAP (PLASTIC)
+https://www.scientificamerican.com/article/recycling-plastic-bottle-caps/
+
 BOX (CARDBOARD)
 BREAD
 BRUSH
 BUBBLE WRAP
+https://earth911.com/home-garden/is-bubble-wrap-recyclable/
 BUTANE FUEL
 CACTUS
 CALCULATOR
@@ -249,7 +263,18 @@ CD DISC
 CEILING FAN
 CELLPHONE
 CERAMICS (BROKEN)
+- Broken glass is never recyclable because it’s a hazard for sanitation workers to handle it.
+https://keeptruckeegreen.org/dishes-are-not-recyclable/
+
+
+***ADD***
+ Glassware and Pyrex are not recyclable. They have different melting points than regular glass jars and bottles, and they can contaminate an entire batch of recycled glass. Donate any items that are reusable. Otherwise, be sure to toss them.
+ ***END OF ADD***
+
 CERAMICS
+- Ceramic items cannot be recycled at most facilities though sometimes facilities that recycle bricks and concrete will recycle ceramics. 
+According to Waste Management, the presence of ceramics like coffee mugs and plates in a batch of your typical, curbside-recyclable glass will weaken the recycled product, which is why ceramics aren’t usually accepted. This is unfortunate, because ceramic is technically recyclable. When recycled, ceramics are crushed to be used for drainage systems and rock base for driveways. They can also be broken and then spun to smooth the edges for use as gravel. Search online to see if you have a recycling yard near by — if its accepted materials includes brick or cement, then you might be in luck! Give them a call to see if they accept ceramics.
+
 CEREAL
 CEREAL BOX LINERS
 CHAIR
@@ -285,7 +310,10 @@ COTTON BALL
 COTTON PAD
 COTTON SWAB
 CUP (CERAMIC)
-CUP (GLASS)
+CUP (GLASS) --> NOT RECYCLABLE?? DOUBLE CHECK (CHECK FOR PYREX)
+**
+If the items in question are heat-treated glass, like Pyrex or Corningware, you should package them for disposal and put them in the garbage: It takes only five grams of heat-treated glass to contaminate an entire one-ton batch of recycled container glass, and damaged, heat-treated glass is unsafe for reuse.**
+https://livegreen.recyclebank.com/column/because-you-asked/what-should-i-do-with-my-chipped-dishes-and-bowls
 CUP (PAPER) // COFFEE CUP은 비닐코팅이라서 노노라는 걸 더할 것.
 CUP (PLASTIC)
 CUP (STYROFOAM)
@@ -342,6 +370,8 @@ GRAINS
 
 HAIR DRYER
 HAIRBRUSH
+
+https://www.marthastewart.com/1514037/how-to-get-rid-of-anything
 HANGER (METAL)
 HANGER (PLASTIC)
 HANGER (WOOD)
@@ -473,6 +503,7 @@ TOILET
 TOILET PAPER
 TOILET PAPER ROLL
 TOOTHBRUSH (PLASTIC)
+https://earth911.com/living-well-being/health/recycling-toothbrushes-and-toothpaste-tubes/
 TOOTHPICKS
 TOWEL
 TRAMPOLINE

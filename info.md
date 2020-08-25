@@ -88,11 +88,15 @@ http://www.dwswa.org/recycle-reuse-articles/2016/5/12/how-aluminum-beverage-cans
 https://alupro.org.uk/consumers/why-is-recycling-aluminium-so-important/
 
 BALL (TRASH)
-3. Most exercise balls are made of vinyl, which is not easily recycled. (More precisely, the balls are commonly made from a soft and elastic polyvinyl chloride (PVC) cover that's inflated with air. PVC contains a high volume of chlorine, and often phthalates as well. 
+3. Most exercise balls are made of vinyl, which is not easily recycled. (More precisely, the balls are commonly made from a soft and elastic polyvinyl chloride (PVC) cover that's inflated with air. PVC contains a high volume of chlorine, and often phthalates as well. However, it is difficult to recycle PVC because of the high cost of recycling PVC, not to mention the toxic fumes that can be released when it is reprocessed, so the material is not accepted at most recycling centers.) Instead, sporting goods manufacturers may have take-back programs and accept old exercise balls for reprocessing such as this!!!!!!: https://www.recycleballs.org/solution/  !!!!!!!!!
 https://homeguides.sfgate.com/exercise-balls-recyclable-79390.html
 
 BALLOONS
-BARBEQUE
+3. The two primary types of balloons made and sold in the U.S. are latex and Mylar. Both materials cannot be re-melted or dissolved in solvents easily, so they are generally considered non-recyclable. If you put used balloons in the trash, they’ll end up in landfills, where latex balloons will eventually biodegrade (because they’re made from the sap of a rubber tree), meaning that f they are released in the air, they will break down over time. However, Mylar balloons will never biodegrade (because they are made of a type of plastic). So for Mylar ballons, it is highly recommended to give a second life.
+https://balloons.online/blog/post/point-to-keep-in-mind-while-disposing-of-foil-balloons#:~:text=Proper%20Disposal,polluting%20both%20land%20and%20water.
+
+BARBEQUE (refer to FOOD)
+
 BARBEQUE GRILL
 BASKETBALL HOOP
 BATTERY (DISPOSABLE)

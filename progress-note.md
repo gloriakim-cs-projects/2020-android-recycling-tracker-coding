@@ -1,16 +1,10 @@
 # Progress Note
-
-## DONE
-- [X] Main
-- [X] Search (Come back to add 'Collected pictures' & possibly YouTube demonstrations)
-     - [X] Search Details
-     - [X] Search Bar
      
-## NEED TO DONE
+## NEED TO DONE (MAIN JOBS)
 - [ ] Locator
     - [ ] 일단 배낌. 
     - [ ] 아래 밀면 떠오르는 거. + icon 클릭하면 나오는 description. (이해를 못했는데 할 수 있나 ㅜㅜ 일단 무조건 배끼고 보자.)
-    - [ ] floating point를 사용해서 사용자도 넣을 수 있게.
+    - [ ] floating button를 사용해서 사용자도 넣을 수 있게.
 - [ ] Stats 
      - Come back to add detailed daily, weekly, monthly stats
      - https://www.youtube.com/watch?v=qt3N7w1E6lc
@@ -20,27 +14,43 @@
 - [ ] Goals (REMOVED)
 - [ ] Events (REMOVED)
 - [ ] Array Descriptions
+
+### Schedule (DETAILED JOBS)
+
+화
+- redesign array description
+(아이콘 표시? - 쓰레기통, recycling, hazard 등 string에 나누어진 대로)
+('왜 recycling/not recycle 해야하는지)
+(어떻게 recycle해야 하는지)
+(어디다가 해야하는지) <- 이거 맵에다가 넣어야하나?
+
+수
+- redesign stat에 들어갈 것들 뭐뭐 넣을지
+
+목
+- redesign goals
+
+금
+- redesign events
+
+### 맨 나중에 할 것
+- locator 배끼고, 또 거기다 아래 추가도 해야하고.
+- donation 넣어야 함 말아야 함? 넣긴 넣는데... 어디에서 해야할지 알려줄 지는 말아야 하는 것으로 암. 그럼 지도상에서 표시하지 말아야 하겠지..?
+
+
+### 모든 게 끝난 후에 더 완벽함을 추구할 때
+- image를 다 보고 다시 고치기. 더 잘 보이는 걸로.
+- background 너무 까만 거 고치기
+- 카메라 찍힌 후 yes or no 표시 (search도)
+- 좀 더 깔끔하게 코딩 줄이기
+
+## DONE
+- [X] Main
+- [X] Search (Come back to add 'Collected pictures' & possibly YouTube demonstrations)
+     - [X] Search Details
+     - [X] Search Bar
 - [X] Array Pictures
 - [X] facepixelizer써서 blur
-
-### Schedule
-* 아파서 이틀ㅜㅜ씩 미룸ㅜㅜㅜ
-금: 
-- [X] Search option 끝내기
-- [X] Android emulator 고치기
-- [X] array label 다시 고치기
-- [X] array picture을 다 맞게 저장하기
-- array description
-
-토:
-- array description 완벽히 하기
-- locator 전부 배끼기
-
-일: 
-- Stat 끝내기
-
-월 ㅜㅜ 걍 포기하자 ㅜㅜㅜ: 
-- Goal, Event 넣기
 
 # Tips I learned
 

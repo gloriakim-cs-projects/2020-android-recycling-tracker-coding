@@ -1,7 +1,3 @@
-1. recycling preparation
-2. recycling process
-3. why are chip bags (not) recyclable?
-
 ## FINAL LABELS (WITHOUT SPACE)
 
 AEROSOL CAN (EMPTY) // 스프레이 캔

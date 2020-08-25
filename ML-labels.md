@@ -366,8 +366,11 @@ FLOUR
 FLUORESCENT BULB (CFL)
 - Image by <a href="https://pixabay.com/users/Diermaier-1497330/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1167347">Jürgen Diermaier</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1167347">Pixabay</a>
 
-FLYERS
+FLYERS (LAMINATED)
 - <span>Photo by <a href="https://unsplash.com/@shnipelson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jana Shnipelson</a> on <a href="https://unsplash.com/s/photos/flyers?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+FLYERS (NON-LAMINATED)
+- <span>Photo by <a href="https://unsplash.com/@tdillon19?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tom Dillon</a> on <a href="https://unsplash.com/s/photos/flyers?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 **FOAM (POLYETHYLENE)** 못찾음 ㅜㅜㅜ
 

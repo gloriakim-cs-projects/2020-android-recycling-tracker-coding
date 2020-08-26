@@ -26,6 +26,7 @@
 - locator 배끼고, 또 거기다 아래 추가도 해야하고.
 - donation 넣어야 함 말아야 함? 넣긴 넣는데... 어디에서 해야할지 알려줄 지는 말아야 하는 것으로 암. 그럼 지도상에서 표시하지 말아야 하겠지..?
 - new labels: ANIMAL WASTE, shelf-stable (aseptic) cartons (CHANGE THE NAME), refrigerated (gable-top) cartons as stated in https://earth911.com/home-garden/recycling-mystery-milk-and-juice-cartons/
+- embedding YouTube videos https://pub.dev/packages/flutube
 
 
 ### 모든 게 끝난 후에 더 완벽함을 추구할 때

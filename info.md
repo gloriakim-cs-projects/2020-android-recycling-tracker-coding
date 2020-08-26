@@ -101,6 +101,8 @@ BARBEQUE (refer to FOOD)
 
 BARBEQUE GRILL
 1. ***TRASH/RECYCLIN INSTRUCTION***
+Although __ cannot be recycled in bulk, it can be separated into pieces to recycle.
+
 If you have a gas grill, your first concern is the propane tank. Propane tanks are a hazardous waste; in some states, they are banned from landfills and many local communities have additional regulations regarding their disposal. The dealer where you obtained the gas will usually accept empty tanks for recycling. Even if they don’t, they can probably advise you of local laws and disposal options. If you are dealing with a very old grill, you might need to deliver the tank to the local fire department for safe handling.
 
 Once you have dealt with the propane tank, some communities will allow you to dispose of the rest of the grill as trash. In many places, you will only be able to recycle your grill if you break it down yourself. Many barbecues are also stealth electronics — household items containing electrical components that require special handling. Ignition wires, thermometers, electric controllers, and batteries are all e-waste that should not go in your garbage.
@@ -113,7 +115,7 @@ https://earth911.com/home-garden/recycling-mystery-barbecue-grill/#:~:text=Call%
 
 ANOTHER ONE: https://www.charbroil.com/learn/how-to-dispose-and-recycle-your-old-gas-grill/ <<<- maybe include some numbering for recycling step / part?
 
-3. A short answer is because a barbeque grill is too big to go into the recycling machinary and is made of many components that are hard to separate into pieces. 
+3. A barbeque grill cannot be simply recycled in bulk because it is too big to go into the recycling machinary and is made of many components that are hard to separate into pieces. 
 
 BASKETBALL HOOP
 

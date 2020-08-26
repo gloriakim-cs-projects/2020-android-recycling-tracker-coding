@@ -7,6 +7,35 @@
 
 ![image](https://user-images.githubusercontent.com/68700599/91166193-973c8f00-e697-11ea-98f0-fda6a5429980.png)
 
+The chip bags are recyclable in Denton.
+/
+Recycling Preparation
+...
+/
+Recycling Process
+(1) ...
+/
+Why can I recycle chip bags in Denton?
+Because...
+/
+The chip bags are donatable in Denton.
+/
+=====
+The chip bags are not recyclable in Denton.
+/
+Why can't I recycle chip bags in Denton?
+Because... But you can find other recycling facilities that accept chip bags.
+/
+Recycling Preparation
+...
+/
+Recycling Process
+...
+/
+The chip bags are not donatable in Denton.
+
+
+
 수
 - redesign stat에 들어갈 것들 뭐뭐 넣을지
 

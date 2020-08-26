@@ -20,6 +20,11 @@
 
 ### 맨 나중에 할 것
 - locator 배끼고, 또 거기다 아래 추가도 해야하고.
+- 
+
+***ADD***
+ Glassware and Pyrex are not recyclable. They have different melting points than regular glass jars and bottles, and they can contaminate an entire batch of recycled glass. Donate any items that are reusable. Otherwise, be sure to toss them.
+ ***END OF ADD***
 - donation 넣어야 함 말아야 함? 넣긴 넣는데... 어디에서 해야할지 알려줄 지는 말아야 하는 것으로 암. 그럼 지도상에서 표시하지 말아야 하겠지..?
 - new labels: ANIMAL WASTE, shelf-stable (aseptic) cartons (CHANGE THE NAME), refrigerated (gable-top) cartons as stated in https://earth911.com/home-garden/recycling-mystery-milk-and-juice-cartons/
 - embedding YouTube videos https://pub.dev/packages/flutube
@@ -29,6 +34,7 @@
 ![2](https://user-images.githubusercontent.com/68700599/91322101-f2987b00-e784-11ea-9d3a-916a260a86c7.PNG)
 ![3](https://user-images.githubusercontent.com/68700599/91322106-f4623e80-e784-11ea-9a64-f5cc07ec20f6.PNG)
 ![4](https://user-images.githubusercontent.com/68700599/91322110-f4fad500-e784-11ea-8c73-3e0eeeb1078b.PNG)
+
 
 
 

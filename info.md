@@ -234,9 +234,12 @@ BOOKSHELF
 
 BOTTLE (CERAMIC)
 **APPLIES TO ALL CERAMICS**
-3. According to Waste Management, the presence of ceramics like coffee mugs and plates in a batch of your typical, curbside-recyclable glass will weaken the recycled product, which is why ceramics aren’t usually accepted. 
 
-2. 였나? When recycled, ceramics are crushed to be used for drainage systems and rock base for driveways. They can also be broken and then spun to smooth the edges for use as gravel. Search online to see if you have a recycling yard near by — if its accepted materials includes brick or cement, then you might be in luck! Give them a call to see if they accept ceramics.
+1. To recycle ceramics, the first thing is to search online to see if you have a recycling yard near by — if its accepted materials includes brick or cement, then you might be in luck! Give them a call to see if they accept ceramics. If they do, you can clean the ceramics and send them to the recycling yard.
+
+2. When recycled, ceramics are crushed to be used for drainage systems and rock base for driveways. They can also be broken and then spun to smooth the edges for use as gravel. 
+
+3. According to Waste Management, the presence of ceramics like coffee mugs and plates in a batch of your typical, curbside-recyclable glass will weaken the recycled product, which is why ceramics aren’t usually accepted. 
 
 https://livegreen.recyclebank.com/column/because-you-asked/what-should-i-do-with-my-chipped-dishes-and-bowls
 

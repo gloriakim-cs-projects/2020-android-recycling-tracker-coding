@@ -42,7 +42,7 @@ saved energy. (related to stats).
  Glassware and Pyrex are not recyclable. They have different melting points than regular glass jars and bottles, and they can contaminate an entire batch of recycled glass. Donate any items that are reusable. Otherwise, be sure to toss them.
  ***END OF ADD***
 - donation 넣어야 함 말아야 함? 넣긴 넣는데... 어디에서 해야할지 알려줄 지는 말아야 하는 것으로 암. 그럼 지도상에서 표시하지 말아야 하겠지..?
-- new labels: ANIMAL WASTE, shelf-stable (aseptic) cartons (CHANGE THE NAME), refrigerated (gable-top) cartons as stated in https://earth911.com/home-garden/recycling-mystery-milk-and-juice-cartons/
+- new labels: ANIMAL WASTE, shelf-stable (aseptic) cartons (CHANGE THE NAME), refrigerated (gable-top) cartons as stated in https://earth911.com/home-garden/recycling-mystery-milk-and-juice-cartons/, christmas lighting, glassware, pyrex, 
 - embedding YouTube videos https://pub.dev/packages/flutube
 - redesign the search page or add facts page? https://www.keeptruckeegreen.org/what-to-do/ewaste/
 

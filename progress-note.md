@@ -10,8 +10,24 @@
 수
 - redesign stat에 들어갈 것들 뭐뭐 넣을지
 
+- use recycling impact calcurator https://www.cartonopportunities.org/sites/default/files/resource_library/recycling-impact-calculator-aug-2015.pdf
+https://www.montgomerycountymd.gov/sws/footprint/
+--> calculate each material's weight and divide (it is based on pounds, but it shouldn't be)
+
+- include all of them?
+![image](https://user-images.githubusercontent.com/68700599/91333844-bfa9b380-e793-11ea-9dbc-856ab13c48f0.png)
+
+- how to calculate the number of recycled? in pounds? how? manually add? what's the point then? 
+
+
+
 목
-- redesign goals
+- redesign goals (classify one item -> :D allow yes and now and search)
+number of items (both in total and in classification).
+classification.
+saved energy. (related to stats). 
+
+
 
 금
 - redesign events

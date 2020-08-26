@@ -3,11 +3,7 @@
 ## NEED TO BE DONE (DETAILED JOBS)
 
 화
-- redesign array description
-(아이콘 표시? - 쓰레기통, recycling, hazard 등 string에 나누어진 대로)
-('왜 recycling/not recycle 해야하는지)
-(어떻게 recycle해야 하는지)
-(어디다가 해야하는지) <- 이거 맵에다가 넣어야하나?
+- [X] redesign array description
 
 ![image](https://user-images.githubusercontent.com/68700599/91166193-973c8f00-e697-11ea-98f0-fda6a5429980.png)
 
@@ -27,6 +23,13 @@
 - donation 넣어야 함 말아야 함? 넣긴 넣는데... 어디에서 해야할지 알려줄 지는 말아야 하는 것으로 암. 그럼 지도상에서 표시하지 말아야 하겠지..?
 - new labels: ANIMAL WASTE, shelf-stable (aseptic) cartons (CHANGE THE NAME), refrigerated (gable-top) cartons as stated in https://earth911.com/home-garden/recycling-mystery-milk-and-juice-cartons/
 - embedding YouTube videos https://pub.dev/packages/flutube
+- redesign the search page or add facts page? https://www.keeptruckeegreen.org/what-to-do/ewaste/
+
+![1](https://user-images.githubusercontent.com/68700599/91322115-f5936b80-e784-11ea-8d44-3c9563c4c072.PNG)
+![2](https://user-images.githubusercontent.com/68700599/91322101-f2987b00-e784-11ea-9d3a-916a260a86c7.PNG)
+![3](https://user-images.githubusercontent.com/68700599/91322106-f4623e80-e784-11ea-9a64-f5cc07ec20f6.PNG)
+![4](https://user-images.githubusercontent.com/68700599/91322110-f4fad500-e784-11ea-8c73-3e0eeeb1078b.PNG)
+
 
 
 ### 모든 게 끝난 후에 더 완벽함을 추구할 때

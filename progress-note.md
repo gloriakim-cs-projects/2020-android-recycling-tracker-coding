@@ -4,6 +4,7 @@
 
 화
 - [X] redesign array description
+- [ ] Make description easy to read -> how? (1) add bolded main points (2) separate with bullets/steps (3) add appropriate pictures
 
 ![image](https://user-images.githubusercontent.com/68700599/91166193-973c8f00-e697-11ea-98f0-fda6a5429980.png)
 
@@ -62,6 +63,7 @@ saved energy. (related to stats).
 - redesign events
 - 덴턴 리사이클링 이메일 체크하고 리스트 업데이트!
 - stackoverflow 핀터레스트 copyright 체크!
+
 
 ### 맨 나중에 할 것
 - locator 배끼고, 또 거기다 아래 추가도 해야하고.

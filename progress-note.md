@@ -5,6 +5,7 @@
 화
 - [X] redesign array description
 - [ ] Make description easy to read -> how? (1) add bolded main points (2) separate with bullets/steps (3) add appropriate pictures
+- [ ] Checkmark for `Curbside Bin`, `Other Facility`, `Recyclable`, `Donatable` 
 
 ![image](https://user-images.githubusercontent.com/68700599/91166193-973c8f00-e697-11ea-98f0-fda6a5429980.png)
 

@@ -10,6 +10,8 @@
 - [ ] Are `chip bags` recyclable in Denton Community?
 - [ ] 사실 너무 반복되는 정보. 즉 어떻게 recycling process가 되는지 (Denton 에서) 쓰는 건 맨 위에 딱 하나로 하는 게 좋을 듯?  특별히 색깔 입혀서. 이렇게:
 ![image](https://user-images.githubusercontent.com/68700599/91681292-a007e780-eb13-11ea-955c-744901916fb7.png)
+- [ ] 이런 느낌의 search가 더 좋지 않나? ![image](https://user-images.githubusercontent.com/68700599/91681838-4accd580-eb15-11ea-8f1d-b41571151f36.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/68700599/91166193-973c8f00-e697-11ea-98f0-fda6a5429980.png)

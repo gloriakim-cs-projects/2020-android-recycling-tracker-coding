@@ -2,14 +2,22 @@
      
 ## NEED TO BE DONE (DETAILED JOBS)
 
-화
-- [X] redesign array description
-- [ ] Make description easy to read -> how? (1) add bolded main points (2) separate with bullets/steps (3) add appropriate pictures
-- [ ] Checkmark for `Curbside Bin`, `Other Facility`, `Recyclable`, `Donatable` 
-- [ ] Would it be better to include 'There is no required preparation.' ?
-- [ ] Are `chip bags` recyclable in Denton Community?
-- [ ] 사실 너무 반복되는 정보. 즉 어떻게 recycling process가 되는지 (Denton 에서) 쓰는 건 맨 위에 딱 하나로 하는 게 좋을 듯?  특별히 색깔 입혀서. 이렇게:
+- Ask:
+
+성민이에게 물어볼 것:
+
+1. 와이가 팝업 창으로 뜰까? 아님 아래에 쭉 갈 수 있게 만들까? --> POP UP SOUNDS BETTER, THOUGH.
+2. 와이가 너무 반복되는뎅.... 트래쉬끼리 묶고 그럼 될 듯.
+3. 리사이클링 프로세스가 다 반복되는 거긴 한데, 맨 위에 팁처럼 계속 바뀌는 정보 넣을까? 
+- 사실 너무 반복되는 정보. 즉 어떻게 recycling process가 되는지 (Denton 에서) 쓰는 건 맨 위에 딱 하나로 하는 게 좋을 듯?  특별히 색깔 입혀서. 이렇게:
 ![image](https://user-images.githubusercontent.com/68700599/91681292-a007e780-eb13-11ea-955c-744901916fb7.png)
+
+
+- In progress:
+
+- [ ] Make description easy to read -> how? (1) add bolded main points (2) separate with bullets/steps (3) add appropriate pictures
+- [ ] Would it be better to include 'There is no required preparation.' ? --> YES!
+- [ ] Are `chip bags` recyclable in Denton Community?
 - [ ] 이런 느낌의 search가 더 좋지 않나? ![image](https://user-images.githubusercontent.com/68700599/91681838-4accd580-eb15-11ea-8f1d-b41571151f36.png)
 - [ ] 나라면... (1) Denton에서 리사이클 가능? (2) instead, 뭐해야 함? (전화번호 등 정보 다 넣어서). (3) 왜 그럼? 이런 식으로 궁금할 듯.
 - [ ] save the photo && delete them when the app is deleted

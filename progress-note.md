@@ -12,10 +12,8 @@
 ![image](https://user-images.githubusercontent.com/68700599/91681292-a007e780-eb13-11ea-955c-744901916fb7.png)
 - [ ] 이런 느낌의 search가 더 좋지 않나? ![image](https://user-images.githubusercontent.com/68700599/91681838-4accd580-eb15-11ea-8f1d-b41571151f36.png)
 - [ ] 나라면... (1) Denton에서 리사이클 가능? (2) instead, 뭐해야 함? (전화번호 등 정보 다 넣어서). (3) 왜 그럼? 이런 식으로 궁금할 듯.
-- [ ] info page: 
-<img width="589" alt="image" src="https://user-images.githubusercontent.com/68700599/91745756-1989ef00-eb81-11ea-9cf7-6cd04678ec44.png">
 - [ ] save the photo && delete them when the app is deleted
-- [ ] 
+- [ ] eidted page:
 <img width="365" alt="image" src="https://user-images.githubusercontent.com/68700599/91861266-3af6e380-ec32-11ea-88b9-586eb723de40.png">
 
 - [ ] 이런 식으로 common하게 보이기? (Denton 처럼?) ![image](https://user-images.githubusercontent.com/68700599/91682832-6edde600-eb18-11ea-92a8-f3194b4cdf10.png)

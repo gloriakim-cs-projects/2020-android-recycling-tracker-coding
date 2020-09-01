@@ -11,6 +11,8 @@
 3. 리사이클링 프로세스가 다 반복되는 거긴 한데, 맨 위에 팁처럼 계속 바뀌는 정보 넣을까? 
 - 사실 너무 반복되는 정보. 즉 어떻게 recycling process가 되는지 (Denton 에서) 쓰는 건 맨 위에 딱 하나로 하는 게 좋을 듯?  특별히 색깔 입혀서. 이렇게:
 ![image](https://user-images.githubusercontent.com/68700599/91681292-a007e780-eb13-11ea-955c-744901916fb7.png)
+- FINAL VERSION:
+<img width="209" alt="image" src="https://user-images.githubusercontent.com/68700599/91873119-45b77580-ec3e-11ea-9051-2baf6bda68f9.png">
 
 
 - In progress:

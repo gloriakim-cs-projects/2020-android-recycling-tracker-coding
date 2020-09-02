@@ -45,3 +45,6 @@ flutter:
         - asset: fonts/Rajdhani-Regular.ttf
         - asset: fonts/Rajdhani-Bold.ttf
           weight: 700
+    - family: MyFlutterApp
+      fonts:
+        - asset: fonts/MyFlutterApp.ttf

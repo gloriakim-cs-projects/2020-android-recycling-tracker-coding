@@ -15,6 +15,7 @@ class DetailScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     //set variables
+    //TODO: if recyclable.description is not empty, then imagename is title + description
     String imagename = recyclable.title;
     String recycle = recyclable.recycle;
     String recycleDesc = recyclable.recycleDesc;
@@ -43,28 +44,27 @@ class DetailScreen extends StatelessWidget {
                 //아래엔 tab bar 넣기
                 bottom: TabBar(
                   unselectedLabelColor: Colors.white,
+                  labelColor: Colors.black,
                   indicatorSize: TabBarIndicatorSize.label,
                   indicator: BoxDecoration(
                     color: Colors.white,
                     borderRadius: new BorderRadius.only(
-                      topLeft: const Radius.circular(40),
-                      topRight: const Radius.circular(40),
+                      topLeft: const Radius.circular(20),
+                      topRight: const Radius.circular(20),
                     ),
                   ),
                   tabs: [
                     Tab(
                       child: Container(
-                        width: MediaQuery.of(context).size.width * 0.5,
                         decoration: BoxDecoration(
                             borderRadius: new BorderRadius.only(
-                          topLeft: const Radius.circular(40.0),
-                          topRight: const Radius.circular(40.0),
+                          topLeft: const Radius.circular(20.0),
+                          topRight: const Radius.circular(20.0),
                         )),
                         child: Align(
                           alignment: Alignment.center,
                           child: Text(
                             "Recycle",
-                            style: TextStyle(color: Colors.black),
                           ),
                         ),
                       ),
@@ -74,13 +74,12 @@ class DetailScreen extends StatelessWidget {
                       width: MediaQuery.of(context).size.width * 0.5,
                       decoration: BoxDecoration(
                           borderRadius: new BorderRadius.only(
-                        topLeft: const Radius.circular(40.0),
-                        topRight: const Radius.circular(40.0),
+                        topLeft: const Radius.circular(20.0),
+                        topRight: const Radius.circular(20.0),
                       )),
                       child: Align(
                         alignment: Alignment.center,
-                        child: Text("Upcycle",
-                            style: TextStyle(color: Colors.black)),
+                        child: Text("Upcycle"),
                       ),
                     ))
                   ],

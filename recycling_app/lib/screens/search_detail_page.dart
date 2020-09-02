@@ -17,9 +17,12 @@ class DetailScreen extends StatelessWidget {
     //set variables
     String imagename = recyclable.title;
     String recycle = recyclable.recycle;
+    String recycleDesc = recyclable.recycleDesc;
     String instruction = recyclable.instruction;
+    String specialFacility = recyclable.specialFacility;
     String recyclingPreparation = recyclable.recyclingPreparation;
     String recyclingProcess = recyclable.recyclingProcess;
+    String alternativeOptions = recyclable.alternativeOptions;
     String why = recyclable.why;
     String donate = recyclable.donate;
     String creativeUse = recyclable.creativeUse;

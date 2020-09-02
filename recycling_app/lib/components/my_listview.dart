@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:recycling_app/recyclable_list.dart';
 import 'package:recycling_app/theme/light_grey_theme.dart';
 import 'box_decoration.dart';
-import 'detail_screen.dart';
+import '../screens/search_detail_page.dart';
 
 ListView MyListView() {
   String imagename;

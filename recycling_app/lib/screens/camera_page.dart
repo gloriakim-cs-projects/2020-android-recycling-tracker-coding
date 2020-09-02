@@ -7,7 +7,7 @@ import 'dart:io'; //FILE
 import 'package:tflite/tflite.dart';
 //other dart files
 import 'package:recycling_app/recyclable_list.dart';
-import 'package:recycling_app/components/detail_screen.dart';
+import 'file:///C:/Users/glori/Downloads/git-recycling-2020/recycling_app/lib/screens/search_detail_page.dart';
 
 class CameraPage extends StatefulWidget {
   @override
